@@ -1,0 +1,3055 @@
+<!DOCTYPE html>
+<html lang="en-US">
+ <body class="facility-template-default single single-facility postid-2213 bg-grey se-theme">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N77VXB6" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+    <filter id="wp-duotone-dark-grayscale">
+     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+     </fecolormatrix>
+     <fecomponenttransfer color-interpolation-filters="sRGB">
+      <fefuncr tablevalues="0 0.49803921568627" type="table">
+      </fefuncr>
+      <fefuncg tablevalues="0 0.49803921568627" type="table">
+      </fefuncg>
+      <fefuncb tablevalues="0 0.49803921568627" type="table">
+      </fefuncb>
+      <fefunca tablevalues="1 1" type="table">
+      </fefunca>
+     </fecomponenttransfer>
+     <fecomposite in2="SourceGraphic" operator="in">
+     </fecomposite>
+    </filter>
+   </defs>
+  </svg>
+  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+    <filter id="wp-duotone-grayscale">
+     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+     </fecolormatrix>
+     <fecomponenttransfer color-interpolation-filters="sRGB">
+      <fefuncr tablevalues="0 1" type="table">
+      </fefuncr>
+      <fefuncg tablevalues="0 1" type="table">
+      </fefuncg>
+      <fefuncb tablevalues="0 1" type="table">
+      </fefuncb>
+      <fefunca tablevalues="1 1" type="table">
+      </fefunca>
+     </fecomponenttransfer>
+     <fecomposite in2="SourceGraphic" operator="in">
+     </fecomposite>
+    </filter>
+   </defs>
+  </svg>
+  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+    <filter id="wp-duotone-purple-yellow">
+     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+     </fecolormatrix>
+     <fecomponenttransfer color-interpolation-filters="sRGB">
+      <fefuncr tablevalues="0.54901960784314 0.98823529411765" type="table">
+      </fefuncr>
+      <fefuncg tablevalues="0 1" type="table">
+      </fefuncg>
+      <fefuncb tablevalues="0.71764705882353 0.25490196078431" type="table">
+      </fefuncb>
+      <fefunca tablevalues="1 1" type="table">
+      </fefunca>
+     </fecomponenttransfer>
+     <fecomposite in2="SourceGraphic" operator="in">
+     </fecomposite>
+    </filter>
+   </defs>
+  </svg>
+  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+    <filter id="wp-duotone-blue-red">
+     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+     </fecolormatrix>
+     <fecomponenttransfer color-interpolation-filters="sRGB">
+      <fefuncr tablevalues="0 1" type="table">
+      </fefuncr>
+      <fefuncg tablevalues="0 0.27843137254902" type="table">
+      </fefuncg>
+      <fefuncb tablevalues="0.5921568627451 0.27843137254902" type="table">
+      </fefuncb>
+      <fefunca tablevalues="1 1" type="table">
+      </fefunca>
+     </fecomponenttransfer>
+     <fecomposite in2="SourceGraphic" operator="in">
+     </fecomposite>
+    </filter>
+   </defs>
+  </svg>
+  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+    <filter id="wp-duotone-midnight">
+     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+     </fecolormatrix>
+     <fecomponenttransfer color-interpolation-filters="sRGB">
+      <fefuncr tablevalues="0 0" type="table">
+      </fefuncr>
+      <fefuncg tablevalues="0 0.64705882352941" type="table">
+      </fefuncg>
+      <fefuncb tablevalues="0 1" type="table">
+      </fefuncb>
+      <fefunca tablevalues="1 1" type="table">
+      </fefunca>
+     </fecomponenttransfer>
+     <fecomposite in2="SourceGraphic" operator="in">
+     </fecomposite>
+    </filter>
+   </defs>
+  </svg>
+  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+    <filter id="wp-duotone-magenta-yellow">
+     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+     </fecolormatrix>
+     <fecomponenttransfer color-interpolation-filters="sRGB">
+      <fefuncr tablevalues="0.78039215686275 1" type="table">
+      </fefuncr>
+      <fefuncg tablevalues="0 0.94901960784314" type="table">
+      </fefuncg>
+      <fefuncb tablevalues="0.35294117647059 0.47058823529412" type="table">
+      </fefuncb>
+      <fefunca tablevalues="1 1" type="table">
+      </fefunca>
+     </fecomponenttransfer>
+     <fecomposite in2="SourceGraphic" operator="in">
+     </fecomposite>
+    </filter>
+   </defs>
+  </svg>
+  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+    <filter id="wp-duotone-purple-green">
+     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+     </fecolormatrix>
+     <fecomponenttransfer color-interpolation-filters="sRGB">
+      <fefuncr tablevalues="0.65098039215686 0.40392156862745" type="table">
+      </fefuncr>
+      <fefuncg tablevalues="0 1" type="table">
+      </fefuncg>
+      <fefuncb tablevalues="0.44705882352941 0.4" type="table">
+      </fefuncb>
+      <fefunca tablevalues="1 1" type="table">
+      </fefunca>
+     </fecomponenttransfer>
+     <fecomposite in2="SourceGraphic" operator="in">
+     </fecomposite>
+    </filter>
+   </defs>
+  </svg>
+  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+    <filter id="wp-duotone-blue-orange">
+     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
+     </fecolormatrix>
+     <fecomponenttransfer color-interpolation-filters="sRGB">
+      <fefuncr tablevalues="0.098039215686275 1" type="table">
+      </fefuncr>
+      <fefuncg tablevalues="0 0.66274509803922" type="table">
+      </fefuncg>
+      <fefuncb tablevalues="0.84705882352941 0.41960784313725" type="table">
+      </fefuncb>
+      <fefunca tablevalues="1 1" type="table">
+      </fefunca>
+     </fecomponenttransfer>
+     <fecomposite in2="SourceGraphic" operator="in">
+     </fecomposite>
+    </filter>
+   </defs>
+  </svg>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NWHFJ7X" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <header class="bg-white" id="pageheader" role="banner">
+   <a aria-label="skip to main page" href="#maincontent" id="skiptocontent">
+    skip to main content
+   </a>
+   <div class="navbar-wrapper">
+    <nav class="navbar header-nav navbar-expand-lg navbar-light">
+     <a aria-label="Go to home page" class="mr-0 logo" href="/">
+      <img alt="Mini Mall Storage Properties" class="img-fluid" data-lazy-src="https://cdn.minimallstorage.com/wp-content/themes/secur-child-minimallstorage/assets/images/MMSP-2022-Orange.Logo-Horizontal-en.webp" height="119" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20119'%3E%3C/svg%3E" width="500"/>
+      <noscript>
+       <img alt="Mini Mall Storage Properties" class="img-fluid" height="119" src="https://cdn.minimallstorage.com/wp-content/themes/secur-child-minimallstorage/assets/images/MMSP-2022-Orange.Logo-Horizontal-en.webp" width="500"/>
+      </noscript>
+     </a>
+     <a class="btn btn-secondary d-none d-sm-block d-lg-none ml-auto mr-4 pay-online-btn" data-target="#lockModal" data-toggle="modal" href="#">
+      Get Lock Code
+     </a>
+     <a class="btn btn-primary d-none d-sm-block d-lg-none mr-4 pay-online-btn" href="https://www.minimallstorage.com/pay-online/?fid=4475">
+      <!-- <span class="far fa-lock-alt mr-2"></span> -->
+      Make a Payment
+     </a>
+     <button aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler mr-3" data-target="#navbarNav" data-toggle="collapse" type="button">
+      <div class="ham">
+      </div>
+      <div class="ham">
+      </div>
+      <div class="ham">
+      </div>
+     </button>
+     <div class="collapse navbar-collapse align-items-center justify-content-center bold-font" id="navbarNav">
+      <div class="menu-main-menu-container">
+       <ul class="navbar-nav" id="menu-main-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-18 nav-item" id="menu-item-18" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="/self-storage" id="menu-item-dropdown-18" title="Locations">
+          Locations
+         </a>
+         <ul aria-labelledby="menu-item-dropdown-18" class="dropdown-menu" role="menu">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7364 nav-item" id="menu-item-7364" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+           <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/us/" title="USA">
+            USA
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-has-children dropdown menu-item-2955 nav-item" id="menu-item-2955" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+           <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle dropdown-item" data-depth="1" data-toggle="dropdown" href="https://www.minimallstorage.com/self-storage/us/" id="menu-item-dropdown-2955" title="Select State">
+            Select State
+           </a>
+           <ul aria-labelledby="menu-item-dropdown-2955" class="dropdown-menu" role="menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-3747 nav-item" id="menu-item-3747" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/arkansas/" title="Arkansas">
+              Arkansas
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-3818 nav-item" id="menu-item-3818" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/alabama/" title="Alabama">
+              Alabama
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-5777 nav-item" id="menu-item-5777" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/us/georgia/" title="Georgia">
+              Georgia
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-8155 nav-item" id="menu-item-8155" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/kansas/" title="Kansas">
+              Kansas
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-4240 nav-item" id="menu-item-4240" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/indiana/" title="Indiana">
+              Indiana
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-5341 nav-item" id="menu-item-5341" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/illinois/" title="Illinois">
+              Illinois
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-4404 nav-item" id="menu-item-4404" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/louisiana/" title="Louisiana">
+              Louisiana
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-4379 nav-item" id="menu-item-4379" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/mississippi/" title="Mississippi">
+              Mississippi
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-5427 nav-item" id="menu-item-5427" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/north-carolina/" title="North Carolina">
+              North Carolina
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-4277 nav-item" id="menu-item-4277" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/ohio/" title="Ohio">
+              Ohio
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-5343 nav-item" id="menu-item-5343" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/south-carolina/" title="South Carolina">
+              South Carolina
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-5687 nav-item" id="menu-item-5687" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/tennessee/" title="Tennessee">
+              Tennessee
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-5948 nav-item" id="menu-item-5948" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/texas/" title="Texas">
+              Texas
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-9439 nav-item" id="menu-item-9439" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/us/virginia/" title="Virginia">
+              Virginia
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-6005 nav-item" id="menu-item-6005" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/us/west-virginia/" title="West Virginia">
+              West Virginia
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7365 nav-item" id="menu-item-7365" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+           <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/ca/" title="CANADA">
+            CANADA
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-has-children dropdown menu-item-2956 nav-item" id="menu-item-2956" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+           <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle dropdown-item" data-depth="1" data-toggle="dropdown" href="https://www.minimallstorage.com/self-storage/ca/" id="menu-item-dropdown-2956" title="Select Province">
+            Select Province
+           </a>
+           <ul aria-labelledby="menu-item-dropdown-2956" class="dropdown-menu" role="menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-443 nav-item" id="menu-item-443" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/alberta/" title="Alberta">
+              Alberta
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-444 nav-item" id="menu-item-444" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/british-columbia/" title="British Columbia">
+              British Columbia
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-445 nav-item" id="menu-item-445" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/manitoba/" title="Manitoba">
+              Manitoba
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility current-facility-ancestor menu-item-2247 nav-item" id="menu-item-2247" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/new-brunswick/" title="New Brunswick">
+              New Brunswick
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-441 nav-item" id="menu-item-441" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/ontario/" title="Ontario">
+              Ontario
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-3898 nav-item" id="menu-item-3898" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/quebec/" title="Quebec">
+              Quebec
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-442 nav-item" id="menu-item-442" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/self-storage/saskatchewan/" title="Saskatchewan">
+              Saskatchewan
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-3325 nav-item" id="menu-item-3325" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" id="menu-item-dropdown-3325" title="Storage Resources">
+          Storage Resources
+         </a>
+         <ul aria-labelledby="menu-item-dropdown-3325" class="dropdown-menu" role="menu">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-20 nav-item" id="menu-item-20" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+           <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle dropdown-item" data-depth="1" data-toggle="dropdown" href="#" id="menu-item-dropdown-20" title="Storage Tools">
+            Storage Tools
+           </a>
+           <ul aria-labelledby="menu-item-dropdown-20" class="dropdown-menu" role="menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-832 nav-item" id="menu-item-832" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/size-guide/" title="Size Guide">
+              Size Guide
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2351 nav-item" id="menu-item-2351" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/size-calculator/" title="Size Calculator">
+              Size Calculator
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-831 nav-item" id="menu-item-831" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/faqs/" title="Frequently Asked Questions">
+              Frequently Asked Questions
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3141 nav-item" id="menu-item-3141" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/storage-tips/" title="Storage Tips">
+              Storage Tips
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3140 nav-item" id="menu-item-3140" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/packing-tips/" title="Packing Tips">
+              Packing Tips
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3139 nav-item" id="menu-item-3139" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/moving-guide/" title="Moving Guide">
+              Moving Guide
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5706 nav-item" id="menu-item-5706" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/what-to-expect-when-you-arrive/" title="What to Expect When You Arrive">
+              What to Expect When You Arrive
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5741 nav-item" id="menu-item-5741" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/moving-packing-storage-supplies/" title="Moving, Packing &amp; Storage Supplies">
+              Moving, Packing &amp; Storage Supplies
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7820 nav-item" id="menu-item-7820" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/get-to-know-the-5-x-5-storage-unit/" title="5 x 5 Storage Unit">
+              5 x 5 Storage Unit
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7821 nav-item" id="menu-item-7821" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/get-to-know-the-10-x-10-storage-unit/" title="10 x 10 Storage Unit">
+              10 x 10 Storage Unit
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7822 nav-item" id="menu-item-7822" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/get-to-know-the-10-x-20-storage-unit/" title="10 x 20 Storage Unit">
+              10 x 20 Storage Unit
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3144 nav-item" id="menu-item-3144" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+           <a class="dropdown-item" href="https://www.minimallstorage.com/storage-features/" title="Storage Features">
+            Storage Features
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-880 nav-item" id="menu-item-880" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+           <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle dropdown-item" data-depth="1" data-toggle="dropdown" href="/#" id="menu-item-dropdown-880" title="Storage Types">
+            Storage Types
+           </a>
+           <ul aria-labelledby="menu-item-dropdown-880" class="dropdown-menu" role="menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3138 nav-item" id="menu-item-3138" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/commercial-storage/" title="Commercial Storage">
+              Commercial Storage
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3137 nav-item" id="menu-item-3137" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/residential-storage/" title="Residential Storage">
+              Residential Storage
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3145 nav-item" id="menu-item-3145" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/vehicle-storage/" title="Vehicle Storage">
+              Vehicle Storage
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3142 nav-item" id="menu-item-3142" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+             <a class="dropdown-item" href="https://www.minimallstorage.com/storage-features/climate-controlled-storage/" title="Climate-Controlled Storage">
+              Climate-Controlled Storage
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-928 nav-item" id="menu-item-928" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+         <a class="nav-link" href="https://www.minimallstorage.com/blog/" title="Blog">
+          Blog
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-2460 nav-item" id="menu-item-2460" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" id="menu-item-dropdown-2460" title="About">
+          About
+         </a>
+         <ul aria-labelledby="menu-item-dropdown-2460" class="dropdown-menu" role="menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2462 nav-item" id="menu-item-2462" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+           <a class="dropdown-item" href="https://www.minimallstorage.com/about-us/" title="About Us">
+            About Us
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12631 nav-item" id="menu-item-12631" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+           <a class="dropdown-item" href="https://www.minimallstorage.com/careers/" title="Careers">
+            Careers
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-929 nav-item" id="menu-item-929" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+           <a class="dropdown-item" href="https://www.minimallstorage.com/contact-us/" title="Contact Us">
+            Contact Us
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6922 nav-item" id="menu-item-6922" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" role="menuitem">
+           <a class="dropdown-item" href="https://www.minimallstorage.com/acquisitions-2-2-2/" title="Looking to Sell?">
+            Looking to Sell?
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </div>
+      <a class="btn btn-secondary pay-online-xs d-block d-sm-none py-3 rounded-0" data-target="#lockModal" data-toggle="modal" href="#">
+       Get Lock Code
+      </a>
+      <a class="btn btn-primary pay-online-xs d-block d-sm-none py-3 rounded-0" href="https://www.minimallstorage.com/pay-online/?fid=4475">
+       Make a Payment
+      </a>
+     </div>
+     <div class="toggle-display-991-1130" id="contact">
+      <a aria-label="Call to minimall" href="tel:(506) 634-7867">
+       (506) 634-7867
+      </a>
+      <a aria-label="Send an email to info@minimall.com" href="mailto:info@minimallstorage.com">
+       <img alt="Mail icon" data-lazy-src="https://cdn.minimallstorage.com/wp-content/uploads/2022/06/email-icon.png" height="59" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2059%2059'%3E%3C/svg%3E" width="59">
+        <noscript>
+         <img alt="Mail icon" height="59" src="https://cdn.minimallstorage.com/wp-content/uploads/2022/06/email-icon.png" width="59"/>
+        </noscript>
+       </img>
+      </a>
+     </div>
+     <a class="btn btn-secondary d-none d-lg-block mr-1 pay-online-btn" data-target="#lockModal" data-toggle="modal" href="#">
+      Get Lock Code
+     </a>
+     <a class="btn btn-primary d-none d-lg-block btn-lg btn-lg-w-200 pay-online-btn" href="https://www.minimallstorage.com/pay-online/?fid=4475">
+      <!-- <span class="far fa-lock-alt fa-sm mr-2 d-lg-none d-xl-inline-block"></span>  -->
+      Make a Payment
+     </a>
+     <select class="pll-switcher-select" id="lang_choice_1" name="lang_choice_1">
+      <option lang="en-US" selected="selected" value="https://www.minimallstorage.com/self-storage/new-brunswick/nauwigewauk/298-route-100/">
+       English
+      </option>
+      <option lang="fr-CA" value="https://www.minimallstorage.com/self-storage/nouveau-brunswick/nauwigewauk/298-route-100/">
+       Français
+      </option>
+     </select>
+     <script type="text/javascript">
+      //<![CDATA[
+					document.getElementById( "lang_choice_1" ).addEventListener( "change", function ( event ) { location.href = event.currentTarget.value; } )
+					//]]>
+     </script>
+    </nav>
+   </div>
+  </header>
+  <main id="maincontent" name="maincontent">
+   <div class="facility-map-info" data-lat="45.479259" data-lng="-65.885562" id="map-info">
+    <div class="map-info-window-container" style="display:none;">
+     <div class="map-info-window">
+      <div class="map-info-window-content">
+       <h4 class="infowindow-title">
+        Self Storage Units in Saint John - Route 100
+       </h4>
+       <p class="infowindow-p">
+        298 Route 100
+        <br/>
+        Nauwigewauk, New Brunswick E5N 6Z4
+        <br/>
+        (506) 634-7867
+       </p>
+       <a class="btn btn-primary btn-sm btn-infowin" href="https://www.google.com/maps/dir/?api=1&amp;destination=Mini Mall Storage - Saint John - Route 100, 298 Route 100, Nauwigewauk, New Brunswick, E5N 6Z4, Canada" role="button" target="_blank">
+        Get Directions
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="site-alert alert fade show mb-0 bg-brand-primary">
+    <strong>
+     2nd Month Free on select units!
+    </strong>
+   </div>
+   <div class="container-fluid">
+    <div class="row pl-xl-5 pr-xl-5">
+     <div class="col-lg-4 col-xl-3">
+      <div class="row no-gutters mt-3 mt-lg-0">
+       <div class="col-12 col-sm-6 col-lg-12 mt-lg-5">
+        <div class="location-info h-100">
+         <h1>
+          Self Storage Units in Saint John - Route 100
+         </h1>
+         <!-- Brand Logo -->
+         <!-- <img width="500" height="199" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20199'%3E%3C/svg%3E"class="facility-brand-logo" alt="Secur Self Storage" data-lazy-src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/secur-logo.png"><noscript><img width="500" height="199" src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/secur-logo.png"class="facility-brand-logo" alt="Secur Self Storage"></noscript> -->
+         <div class="review-star-row">
+          <a class="reviews-trigger" href="#">
+           Reviews
+           <span class="d-inline-block">
+            <span class="fas fa-star brand-secondary">
+            </span>
+            <span class="fas fa-star brand-secondary">
+            </span>
+            <span class="fas fa-star brand-secondary">
+            </span>
+            <span class="fas fa-star brand-secondary">
+            </span>
+            <span class="fas fa-star-half brand-secondary">
+            </span>
+           </span>
+           (20)
+          </a>
+         </div>
+         <address class="card-text">
+          298 Route 100,
+          <br/>
+          Nauwigewauk, New Brunswick E5N 6Z4
+          <br/>
+          <a href="tel:(506) 634-7867">
+           (506) 634-7867
+          </a>
+         </address>
+         <button class="view-units-trigger btn btn-rent d-inline-block d-lg-none">
+          Rent or Reserve Now
+         </button>
+        </div>
+       </div>
+       <div class="col-12 col-sm-6 col-lg-12 bg-white">
+        <div class="carousel slide h-100 d-flex align-items-center" data-interval="4000" data-ride="carousel" id="facilityImageCarousel">
+         <div class="carousel-inner" id="mmsp-dynamic-facility-gallery">
+          <div class="carousel-item active" data-src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000021.jpg">
+           <img alt="Mini Mall Storage in Saint John" class="img-fluid d-block w-100" data-lazy-sizes="(max-width: 470px) 100vw, 470px" data-lazy-src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000021-470x265.jpg" data-lazy-srcset="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000021-470x265.jpg 470w, https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000021-426x240.jpg 426w" decoding="async" height="265" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20470%20265'%3E%3C/svg%3E" width="470"/>
+           <noscript>
+            <img alt="Mini Mall Storage in Saint John" class="img-fluid d-block w-100" decoding="async" height="265" sizes="(max-width: 470px) 100vw, 470px" src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000021-470x265.jpg" srcset="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000021-470x265.jpg 470w, https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000021-426x240.jpg 426w" width="470"/>
+           </noscript>
+          </div>
+          <div class="carousel-item" data-src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000031.jpg">
+           <img alt="small drive up self storage units" class="img-fluid d-block w-100" data-lazy-sizes="(max-width: 470px) 100vw, 470px" data-lazy-src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000031-470x265.jpg" data-lazy-srcset="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000031-470x265.jpg 470w, https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000031-426x240.jpg 426w" decoding="async" height="265" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20470%20265'%3E%3C/svg%3E" width="470"/>
+           <noscript>
+            <img alt="small drive up self storage units" class="img-fluid d-block w-100" decoding="async" height="265" sizes="(max-width: 470px) 100vw, 470px" src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000031-470x265.jpg" srcset="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000031-470x265.jpg 470w, https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000031-426x240.jpg 426w" width="470"/>
+           </noscript>
+          </div>
+          <div class="carousel-item" data-src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000041.jpg">
+           <img alt="drive up self storage unit" class="img-fluid d-block w-100" data-lazy-sizes="(max-width: 470px) 100vw, 470px" data-lazy-src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000041-470x265.jpg" data-lazy-srcset="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000041-470x265.jpg 470w, https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000041-426x240.jpg 426w" decoding="async" height="265" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20470%20265'%3E%3C/svg%3E" width="470"/>
+           <noscript>
+            <img alt="drive up self storage unit" class="img-fluid d-block w-100" decoding="async" height="265" sizes="(max-width: 470px) 100vw, 470px" src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000041-470x265.jpg" srcset="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000041-470x265.jpg 470w, https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000041-426x240.jpg 426w" width="470"/>
+           </noscript>
+          </div>
+          <div class="carousel-item" data-src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000051.jpg">
+           <img alt="drive up self storage in Saint John" class="img-fluid d-block w-100" data-lazy-sizes="(max-width: 470px) 100vw, 470px" data-lazy-src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000051-470x265.jpg" data-lazy-srcset="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000051-470x265.jpg 470w, https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000051-426x240.jpg 426w" decoding="async" height="265" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20470%20265'%3E%3C/svg%3E" width="470"/>
+           <noscript>
+            <img alt="drive up self storage in Saint John" class="img-fluid d-block w-100" decoding="async" height="265" sizes="(max-width: 470px) 100vw, 470px" src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000051-470x265.jpg" srcset="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000051-470x265.jpg 470w, https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000051-426x240.jpg 426w" width="470"/>
+           </noscript>
+          </div>
+          <div class="carousel-item" data-src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000061.jpg">
+           <img alt="large drive up self storage unit" class="img-fluid d-block w-100" data-lazy-sizes="(max-width: 470px) 100vw, 470px" data-lazy-src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000061-470x265.jpg" data-lazy-srcset="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000061-470x265.jpg 470w, https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000061-426x240.jpg 426w" decoding="async" height="265" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20470%20265'%3E%3C/svg%3E" width="470"/>
+           <noscript>
+            <img alt="large drive up self storage unit" class="img-fluid d-block w-100" decoding="async" height="265" sizes="(max-width: 470px) 100vw, 470px" src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000061-470x265.jpg" srcset="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000061-470x265.jpg 470w, https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000061-426x240.jpg 426w" width="470"/>
+           </noscript>
+          </div>
+          <div class="carousel-item" data-src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000071.jpg">
+           <img alt="drive up self storage" class="img-fluid d-block w-100" data-lazy-sizes="(max-width: 470px) 100vw, 470px" data-lazy-src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000071-470x265.jpg" data-lazy-srcset="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000071-470x265.jpg 470w, https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000071-426x240.jpg 426w" decoding="async" height="265" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20470%20265'%3E%3C/svg%3E" width="470"/>
+           <noscript>
+            <img alt="drive up self storage" class="img-fluid d-block w-100" decoding="async" height="265" sizes="(max-width: 470px) 100vw, 470px" src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000071-470x265.jpg" srcset="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000071-470x265.jpg 470w, https://cdn.minimallstorage.com/wp-content/uploads/2021/10/image0000071-426x240.jpg 426w" width="470"/>
+           </noscript>
+          </div>
+          <button class="btn btn-primary btn-gallery mmsp-slider-gallery-trigger" data-target="0">
+           View Larger
+           <span class="far fa-expand-arrows-alt ml-2">
+           </span>
+          </button>
+         </div>
+         <a class="carousel-control-prev" data-slide="prev" href="#facilityImageCarousel" role="button">
+          <span aria-hidden="true" class="carousel-control-prev-icon">
+          </span>
+          <span class="sr-only">
+           Previous
+          </span>
+         </a>
+         <a class="carousel-control-next" data-slide="next" href="#facilityImageCarousel" role="button">
+          <span aria-hidden="true" class="carousel-control-next-icon">
+          </span>
+          <span class="sr-only">
+           Next
+          </span>
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="facility-hours bg-white">
+       <ul class="nav nav-tabs nav-fill" id="hoursTabs" role="tablist">
+        <li class="nav-item">
+         <a aria-controls="office-hours-tab" aria-selected="true" class="nav-link active" data-toggle="tab" href="#office-hours" id="office-hours-tab" role="tab">
+          Office Hours
+         </a>
+        </li>
+        <li class="nav-item">
+         <a aria-controls="access-hours-tab" aria-selected="false" class="nav-link" data-toggle="tab" href="#access-hours" id="access-hours-tab" role="tab">
+          Access Hours
+         </a>
+        </li>
+       </ul>
+       <div class="tab-content" id="HoursTabContent">
+        <div class="title text-center" data-timezone="America/Chicago" id="timezone">
+        </div>
+        <!-- Office Hours -->
+        <div aria-labelledby="office-hours-tab" class="tab-pane show active" id="office-hours" role="tabpanel">
+         <div class="font-weight-bold">
+          Closed on Holidays
+         </div>
+         <ul class="hours-list list-unstyled mb-0">
+          <li class="d-flex justify-content-between">
+           Mon
+           <span>
+            10:00am - 6:00pm
+           </span>
+          </li>
+          <li class="d-flex justify-content-between">
+           Tue
+           <span>
+            10:00am - 6:00pm
+           </span>
+          </li>
+          <li class="d-flex justify-content-between">
+           Wed
+           <span>
+            10:00am - 6:00pm
+           </span>
+          </li>
+          <li class="d-flex justify-content-between">
+           Thu
+           <span>
+            10:00am - 6:00pm
+           </span>
+          </li>
+          <li class="d-flex justify-content-between selected">
+           Fri
+           <span>
+            10:00am - 6:00pm
+           </span>
+          </li>
+          <li class="d-flex justify-content-between">
+           Sat
+           <span>
+            Closed
+           </span>
+          </li>
+          <li class="d-flex justify-content-between">
+           Sun
+           <span>
+            Closed
+           </span>
+          </li>
+         </ul>
+         <ul class="hours-list list-unstyled mb-0">
+          Remotely from Office At  77 Golden Grove Rd.
+          <br>
+          </br>
+         </ul>
+        </div>
+        <!-- Access Hours -->
+        <div aria-labelledby="access-hours-tab" class="tab-pane" id="access-hours" role="tabpanel">
+         <ul class="hours-list list-unstyled mb-0">
+          <li class="d-flex justify-content-between">
+           Mon
+           <span>
+            24 Hours
+           </span>
+          </li>
+          <li class="d-flex justify-content-between">
+           Tue
+           <span>
+            24 Hours
+           </span>
+          </li>
+          <li class="d-flex justify-content-between">
+           Wed
+           <span>
+            24 Hours
+           </span>
+          </li>
+          <li class="d-flex justify-content-between">
+           Thu
+           <span>
+            24 Hours
+           </span>
+          </li>
+          <li class="d-flex justify-content-between selected">
+           Fri
+           <span>
+            24 Hours
+           </span>
+          </li>
+          <li class="d-flex justify-content-between">
+           Sat
+           <span>
+            24 Hours
+           </span>
+          </li>
+          <li class="d-flex justify-content-between">
+           Sun
+           <span>
+            24 Hours
+           </span>
+          </li>
+         </ul>
+        </div>
+        <!-- Lacombe, AB Special Display of Access Hours -->
+       </div>
+      </div>
+     </div>
+     <div class="col-lg-8 col-xl-9">
+      <div class="facility-content">
+       <!-- Replace with the commented tag for custom branding <div class="facility-content facility-branded"> -->
+       <div class="row no-gutters">
+        <div class="col-12 col-lg-3 col-xxl-2 d-flex flex-column bg-light-mid">
+         <div aria-orientation="vertical" class="nav fac-content-nav flex-lg-column nav-pills nav-fill" id="v-pills-facility-tab" role="tablist">
+          <a aria-controls="v-pills-units-tab" aria-selected="false" class="nav-item nav-link font-weight-bolder units-tab active" data-toggle="pill" href="#units" id="v-pills-units-tab" role="tab">
+           <span class="d-inline d-md-none">
+            Units
+           </span>
+           <span class="d-none d-md-inline">
+            Available Units
+           </span>
+          </a>
+          <a aria-controls="v-pills-about-tab" aria-selected="false" class="nav-item nav-link" data-toggle="pill" href="#about" id="v-pills-about-tab" role="tab">
+           About
+           <span class="d-none d-md-inline">
+            Us
+           </span>
+          </a>
+          <a aria-controls="v-pills-features-tab" aria-selected="true" class="nav-item nav-link" data-toggle="pill" href="#features" id="v-pills-features-tab" role="tab">
+           <span class="d-inline d-md-none">
+            Features
+           </span>
+           <span class="d-none d-md-block fr-line-break">
+            Facility Features
+           </span>
+          </a>
+          <a aria-controls="v-pills-map-tab" aria-selected="false" class="nav-item nav-link map-tab" data-toggle="pill" href="#facMap" id="v-pills-map-tab" role="tab">
+           Map
+           <span class="d-none d-md-inline">
+            /Directions
+           </span>
+          </a>
+         </div>
+         <div class="d-none d-lg-block sticky-top">
+          <p class="d-none d-lg-block p-3 mb-0 p-3 mb-0 mini-text text-black">
+           Need help choosing? Try our Size Guide.
+          </p>
+          <button class="btn btn-primary ml-3 mr-3 mb-3" data-target="#sizeGuideModal" data-toggle="modal">
+           <span class="fal fa-ruler-triangle mr-1">
+           </span>
+           Size Guide
+          </button>
+         </div>
+        </div>
+        <div class="col-12 col-lg-9 col-xxl-10 bg-white">
+         <div class="tab-content" id="myTabContent">
+          <div aria-labelledby="v-pills-units-tab" class="tab-pane show active" id="units" role="tabpanel">
+           <div class="row no-gutters justify-content-between d-lg-none mt-3 pl-3 pr-3">
+            <div class="col-6">
+             <button class="btn btn-block btn-toggle-filters-mobile">
+              <span class="far fa-sliders-h">
+              </span>
+              Unit Sizes
+             </button>
+            </div>
+            <div class="col-6">
+             <button class="btn btn-block btn-primary" data-target="#sizeGuideModal" data-toggle="modal">
+              <span class="fal fa-ruler-triangle brand-secondary mr-1">
+              </span>
+              Size Guide
+             </button>
+            </div>
+           </div>
+           <div class="unit-size-filters">
+            <button class="btn btn-neutral mmsp-size-filter active" data-size="small,medium,large">
+             All Sizes
+            </button>
+            <button class="btn btn-neutral mmsp-size-filter" data-size="small">
+             Small
+            </button>
+            <button class="btn btn-neutral mmsp-size-filter" data-size="medium">
+             Medium
+            </button>
+            <button class="btn btn-neutral mmsp-size-filter" data-size="large">
+             Large
+            </button>
+            <div class="col-6 col-lg-3">
+             <select class="selectpicker w-100" data-dropdown-align-right="true" id="facility-features-filter" multiple="" name="features" title="Filter by Feature">
+              <option value="drive-up">
+               Drive-Up
+              </option>
+             </select>
+            </div>
+           </div>
+           <!-- Check display: GRID v ROW -->
+           <div class="row units-table unit-table-row">
+            <div class="col-12" id="filter-zero-results" style="display: none">
+             <div class="py-5 px-3 text-center">
+              No results match your filters
+             </div>
+            </div>
+            <script>
+             function toggleAnnexTab() {
+        document.getElementById('v-pills-annex-tab').click();
+    }
+            </script>
+            <div class="col-12 col-sm-6 col-md-12 col-lg-12 unit-item" data-features="drive-up" data-size="small">
+             <div class="row unit-row unit-row-no-gutters">
+              <div class="col-md-2 col-lg-2 col-xxl-2 text-center d-md-flex align-items-center">
+               <div class="facility-units-row-hdr">
+                <div class="row-unit-img-wrapper">
+                 <img alt="" class="img-fluid" src=""/>
+                </div>
+                <div>
+                 <span class="row-unit-size-title">
+                  5' x 10'
+                 </span>
+                 <span class="row-unit-tooltip">
+                  Small
+                 </span>
+                </div>
+               </div>
+              </div>
+              <div class="col-md-4 col-lg-4 col-xxl-3 d-flex align-items-center justify-content-center justify-content-md-start">
+               <ul class="list-unstyled unit-row-features mb-2 mb-md-0">
+                <li>
+                 <span class="far fa-check fa-xs brand-secondary">
+                 </span>
+                 Drive-Up
+                </li>
+               </ul>
+              </div>
+              <div class="col-md-3 col-lg-3 col-xxl-3 d-flex align-items-center justify-content-center justify-content-md-start mb-2 mb-md-0">
+               <div class="card-text-promo">
+                2nd Month Free
+               </div>
+              </div>
+              <div class="col-md-3 col-lg-3 col-xxl-3 offset-xxl-1 d-flex align-items-center justify-content-center justify-content-md-start">
+               <div class="text-center w-100">
+                <div class="card-unit-price mb-0">
+                 Web Rate
+                 <span class="price-bold">
+                  $95
+                 </span>
+                </div>
+                <div>
+                 <span class="non-web-rate">
+                  starting at $114
+                 </span>
+                </div>
+                <a class="btn btn-block stretched-link mt-auto btn-rent" data-fid="4475" data-target="#valuePricingModal34626" data-toggle="modal" data-uid="34626" href="#">
+                 Select
+                </a>
+               </div>
+              </div>
+             </div>
+            </div>
+            <style>
+            </style>
+            <div aria-hidden="true" aria-labelledby="valuePricingModalLabel34626" class="modal" id="valuePricingModal34626" role="dialog" tabindex="-1">
+             <div class="modal-dialog modal-dialog-centered modal-lg vbp-modal" style="margin: 1.75rem auto">
+              <div class="modal-content" style="padding: 15px">
+               <button aria-label="Close" class="vbp-close" data-dismiss="modal" type="button">
+                <span class="fal fa-times">
+                </span>
+               </button>
+               <div class="vbp-modal-header">
+                <div class="site-alert alert fade show mb-0 bg-brand-primary mt-4">
+                 <strong>
+                  2nd Month Free on select units!
+                 </strong>
+                </div>
+                <div class="col-12 d-inline-flex" style="padding-left: 0">
+                 <div class="d-inline-flex justify-content-start" style="margin-right: 1.5rem;">
+                  <div class="d-flex flex-column justify-content-center">
+                   <span class="vbp-unit-snapshot__header d-block unit-dimensions">
+                    5'x10'
+                   </span>
+                   <span class="vbp-unit-snapshot__subhdr unit-type">
+                    SMALL UNIT
+                   </span>
+                  </div>
+                 </div>
+                 <div class="vbp-header d-flex flex-column">
+                  GRAB YOUR SPACE TODAY
+                 </div>
+                </div>
+               </div>
+               <div id="valueBasedAccordion34626">
+                <div id="rent-or-reserve-text">
+                 RESERVE OR RENT NOW TO LOCK IN THIS DISCOUNT.
+                </div>
+                <div class="vbp-card-container d-flex justify-content-between">
+                 <div class="vbp-card">
+                  <div class="tier-label">
+                   PREMIUM
+                  </div>
+                  <div class="pricing">
+                   <span class="dollars">
+                    $116
+                   </span>
+                   <span style="color: #5d6575; font-family: AvenirNextRegular; font-size: 20px;">
+                    /Month
+                   </span>
+                  </div>
+                  <div class="vbp-promo">
+                   2nd Month Free
+                  </div>
+                  <div class="tier-description">
+                   Our
+                   <strong>
+                    finest
+                   </strong>
+                   storage with the easiest access including drive-up units close to entry.
+                  </div>
+                  <div class="vbp-features-container">
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Best location
+                   </div>
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Easiest to move in and out of
+                   </div>
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Closest to entrance, elevator, or stairs
+                   </div>
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Great for businesses and heavy loads
+                   </div>
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Perfect if you visit your unit often
+                   </div>
+                  </div>
+                  <a class="btn btn-primary btn-rent-reserve choose-unit premium-button" data-dismiss="modal" data-fid="4475" data-target="#splashModal" data-toggle="modal" data-uid="34567" href="#">
+                   CHOOSE THIS UNIT
+                  </a>
+                 </div>
+                 <div class="vbp-card">
+                  <div class="tier-label" style="background: #d8601e; color: white;">
+                   BEST VALUE
+                  </div>
+                  <div class="pricing">
+                   <span class="dollars" style="color: #d8601e;">
+                    $105
+                   </span>
+                   <span style="color: #5d6575; font-family: AvenirNextRegular; font-size: 20px;">
+                    /Month
+                   </span>
+                  </div>
+                  <div class="vbp-promo">
+                   2nd Month Free
+                  </div>
+                  <div class="tier-description">
+                   Secure units at our
+                   <strong>
+                    best rates,
+                   </strong>
+                   with simple access in the center of our facility.
+                  </div>
+                  <div class="vbp-features-container">
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Convenient location
+                   </div>
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Save money and steps
+                   </div>
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Closer to entrance, elevator, or stairs
+                   </div>
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Best for moving small loads
+                   </div>
+                  </div>
+                  <a class="btn btn-primary btn-rent-reserve choose-unit best-value-button" data-dismiss="modal" data-fid="4475" data-target="#splashModal" data-toggle="modal" data-uid="34619" href="#">
+                   CHOOSE THIS UNIT
+                  </a>
+                 </div>
+                 <div class="vbp-card">
+                  <div class="tier-label">
+                   BASIC
+                  </div>
+                  <div class="pricing">
+                   <span class="dollars">
+                    $95
+                   </span>
+                   <span style="color: #5d6575; font-family: AvenirNextRegular; font-size: 20px;">
+                    /Month
+                   </span>
+                  </div>
+                  <div class="vbp-promo">
+                  </div>
+                  <div class="tier-description">
+                   The
+                   <strong>
+                    most affordable
+                   </strong>
+                   units, clean and secure for any storage need.
+                  </div>
+                  <div class="vbp-features-container">
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Furthest from entrance
+                   </div>
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Best when you rarely visit your unit
+                   </div>
+                  </div>
+                  <a class="btn btn-primary btn-rent-reserve choose-unit" data-dismiss="modal" data-fid="4475" data-target="#splashModal" data-toggle="modal" data-uid="34626" href="#">
+                   CHOOSE THIS UNIT
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <button class="btn choose-unit" data-dismiss="modal" style="width: 100%;" type="button">
+                &lt; BACK TO UNITS
+               </button>
+              </div>
+             </div>
+            </div>
+            <div class="col-12 col-sm-6 col-md-12 col-lg-12 unit-item" data-features="drive-up" data-size="medium">
+             <div class="row unit-row unit-row-no-gutters">
+              <div class="col-md-2 col-lg-2 col-xxl-2 text-center d-md-flex align-items-center">
+               <div class="facility-units-row-hdr">
+                <div class="row-unit-img-wrapper">
+                 <img alt="" class="img-fluid" src=""/>
+                </div>
+                <div>
+                 <span class="row-unit-size-title">
+                  10' x  10'
+                 </span>
+                 <span class="row-unit-tooltip">
+                  Medium
+                 </span>
+                </div>
+               </div>
+              </div>
+              <div class="col-md-4 col-lg-4 col-xxl-3 d-flex align-items-center justify-content-center justify-content-md-start">
+               <ul class="list-unstyled unit-row-features mb-2 mb-md-0">
+                <li>
+                 <span class="far fa-check fa-xs brand-secondary">
+                 </span>
+                 Drive-Up
+                </li>
+               </ul>
+              </div>
+              <div class="col-md-3 col-lg-3 col-xxl-3 d-flex align-items-center justify-content-center justify-content-md-start mb-2 mb-md-0">
+               <div class="card-text-promo">
+                2nd Month Free
+                <br/>
+                Hurry, only 1 left!
+               </div>
+              </div>
+              <div class="col-md-3 col-lg-3 col-xxl-3 offset-xxl-1 d-flex align-items-center justify-content-center justify-content-md-start">
+               <div class="text-center w-100">
+                <div class="card-unit-price mb-0">
+                 Web Rate
+                 <span class="price-bold">
+                  $191
+                 </span>
+                </div>
+                <div>
+                 <span class="non-web-rate">
+                  starting at $229
+                 </span>
+                </div>
+                <a class="btn btn-rent btn-block mt-auto btn-rent-reserve" data-fid="4475" data-target="#splashModal" data-toggle="modal" data-uid="34580" href="#">
+                 Select
+                </a>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="col-12 col-sm-6 col-md-12 col-lg-12 unit-item" data-features="drive-up" data-size="medium">
+             <div class="row unit-row unit-row-no-gutters">
+              <div class="col-md-2 col-lg-2 col-xxl-2 text-center d-md-flex align-items-center">
+               <div class="facility-units-row-hdr">
+                <div class="row-unit-img-wrapper">
+                 <img alt="" class="img-fluid" src=""/>
+                </div>
+                <div>
+                 <span class="row-unit-size-title">
+                  10' x  15'
+                 </span>
+                 <span class="row-unit-tooltip">
+                  Medium
+                 </span>
+                </div>
+               </div>
+              </div>
+              <div class="col-md-4 col-lg-4 col-xxl-3 d-flex align-items-center justify-content-center justify-content-md-start">
+               <ul class="list-unstyled unit-row-features mb-2 mb-md-0">
+                <li>
+                 <span class="far fa-check fa-xs brand-secondary">
+                 </span>
+                 Drive-Up
+                </li>
+               </ul>
+              </div>
+              <div class="col-md-3 col-lg-3 col-xxl-3 d-flex align-items-center justify-content-center justify-content-md-start mb-2 mb-md-0">
+               <div class="card-text-promo">
+                2nd Month Free
+                <br/>
+                Hurry, only 1 left!
+               </div>
+              </div>
+              <div class="col-md-3 col-lg-3 col-xxl-3 offset-xxl-1 d-flex align-items-center justify-content-center justify-content-md-start">
+               <div class="text-center w-100">
+                <div class="card-unit-price mb-0">
+                 Web Rate
+                 <span class="price-bold">
+                  $246
+                 </span>
+                </div>
+                <div>
+                 <span class="non-web-rate">
+                  starting at $295
+                 </span>
+                </div>
+                <a class="btn btn-rent btn-block mt-auto btn-rent-reserve" data-fid="4475" data-target="#splashModal" data-toggle="modal" data-uid="34603" href="#">
+                 Select
+                </a>
+               </div>
+              </div>
+             </div>
+            </div>
+            <script>
+             function toggleAnnexTab() {
+        document.getElementById('v-pills-annex-tab').click();
+    }
+            </script>
+            <div class="col-12 col-sm-6 col-md-12 col-lg-12 unit-item" data-features="drive-up" data-size="large">
+             <div class="row unit-row unit-row-no-gutters">
+              <div class="col-md-2 col-lg-2 col-xxl-2 text-center d-md-flex align-items-center">
+               <div class="facility-units-row-hdr">
+                <div class="row-unit-img-wrapper">
+                 <img alt="" class="img-fluid" src=""/>
+                </div>
+                <div>
+                 <span class="row-unit-size-title">
+                  10' x 20'
+                 </span>
+                 <span class="row-unit-tooltip">
+                  Large
+                 </span>
+                </div>
+               </div>
+              </div>
+              <div class="col-md-4 col-lg-4 col-xxl-3 d-flex align-items-center justify-content-center justify-content-md-start">
+               <ul class="list-unstyled unit-row-features mb-2 mb-md-0">
+                <li>
+                 <span class="far fa-check fa-xs brand-secondary">
+                 </span>
+                 Drive-Up
+                </li>
+               </ul>
+              </div>
+              <div class="col-md-3 col-lg-3 col-xxl-3 d-flex align-items-center justify-content-center justify-content-md-start mb-2 mb-md-0">
+               <div class="card-text-promo">
+                2nd Month Free
+               </div>
+              </div>
+              <div class="col-md-3 col-lg-3 col-xxl-3 offset-xxl-1 d-flex align-items-center justify-content-center justify-content-md-start">
+               <div class="text-center w-100">
+                <div class="card-unit-price mb-0">
+                 Web Rate
+                 <span class="price-bold">
+                  $279
+                 </span>
+                </div>
+                <div>
+                 <span class="non-web-rate">
+                  starting at $335
+                 </span>
+                </div>
+                <a class="btn btn-block stretched-link mt-auto btn-rent" data-fid="4475" data-target="#valuePricingModal34640" data-toggle="modal" data-uid="34640" href="#">
+                 Select
+                </a>
+               </div>
+              </div>
+             </div>
+            </div>
+            <style>
+            </style>
+            <div aria-hidden="true" aria-labelledby="valuePricingModalLabel34640" class="modal" id="valuePricingModal34640" role="dialog" tabindex="-1">
+             <div class="modal-dialog modal-dialog-centered modal-lg vbp-modal" style="margin: 1.75rem auto">
+              <div class="modal-content" style="padding: 15px">
+               <button aria-label="Close" class="vbp-close" data-dismiss="modal" type="button">
+                <span class="fal fa-times">
+                </span>
+               </button>
+               <div class="vbp-modal-header">
+                <div class="site-alert alert fade show mb-0 bg-brand-primary mt-4">
+                 <strong>
+                  2nd Month Free on select units!
+                 </strong>
+                </div>
+                <div class="col-12 d-inline-flex" style="padding-left: 0">
+                 <div class="d-inline-flex justify-content-start" style="margin-right: 1.5rem;">
+                  <div class="d-flex flex-column justify-content-center">
+                   <span class="vbp-unit-snapshot__header d-block unit-dimensions">
+                    10'x20'
+                   </span>
+                   <span class="vbp-unit-snapshot__subhdr unit-type">
+                    LARGE UNIT
+                   </span>
+                  </div>
+                 </div>
+                 <div class="vbp-header d-flex flex-column">
+                  GRAB YOUR SPACE TODAY
+                 </div>
+                </div>
+               </div>
+               <div id="valueBasedAccordion34640">
+                <div id="rent-or-reserve-text">
+                 RESERVE OR RENT NOW TO LOCK IN THIS DISCOUNT.
+                </div>
+                <div class="vbp-card-container d-flex justify-content-center">
+                 <div class="vbp-card">
+                  <div class="tier-label" style="background: #d8601e; color: white;">
+                   BEST VALUE
+                  </div>
+                  <div class="pricing">
+                   <span class="dollars" style="color: #d8601e;">
+                    $307
+                   </span>
+                   <span style="color: #5d6575; font-family: AvenirNextRegular; font-size: 20px;">
+                    /Month
+                   </span>
+                  </div>
+                  <div class="vbp-promo">
+                   2nd Month Free
+                  </div>
+                  <div class="tier-description">
+                   Secure units at our
+                   <strong>
+                    best rates,
+                   </strong>
+                   with simple access in the center of our facility.
+                  </div>
+                  <div class="vbp-features-container">
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Convenient location
+                   </div>
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Save money and steps
+                   </div>
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Closer to entrance, elevator, or stairs
+                   </div>
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Best for moving small loads
+                   </div>
+                  </div>
+                  <a class="btn btn-primary btn-rent-reserve choose-unit best-value-button" data-dismiss="modal" data-fid="4475" data-target="#splashModal" data-toggle="modal" data-uid="34638" href="#">
+                   CHOOSE THIS UNIT
+                  </a>
+                 </div>
+                 <div class="vbp-card">
+                  <div class="tier-label">
+                   BASIC
+                  </div>
+                  <div class="pricing">
+                   <span class="dollars">
+                    $279
+                   </span>
+                   <span style="color: #5d6575; font-family: AvenirNextRegular; font-size: 20px;">
+                    /Month
+                   </span>
+                  </div>
+                  <div class="vbp-promo">
+                  </div>
+                  <div class="tier-description">
+                   The
+                   <strong>
+                    most affordable
+                   </strong>
+                   units, clean and secure for any storage need.
+                  </div>
+                  <div class="vbp-features-container">
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Furthest from entrance
+                   </div>
+                   <div class="vbp-feature d-flex">
+                    <span class="brand-primary fas fa-check mr-2">
+                    </span>
+                    Best when you rarely visit your unit
+                   </div>
+                  </div>
+                  <a class="btn btn-primary btn-rent-reserve choose-unit" data-dismiss="modal" data-fid="4475" data-target="#splashModal" data-toggle="modal" data-uid="34640" href="#">
+                   CHOOSE THIS UNIT
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <button class="btn choose-unit" data-dismiss="modal" style="width: 100%;" type="button">
+                &lt; BACK TO UNITS
+               </button>
+              </div>
+             </div>
+            </div>
+            <div class="d-flex w-100 justify-content-center mt-4">
+             <a class="btn btn-secondary" href="https://www.minimallstorage.com/self-storage/new-brunswick/saint-john/77-golden-grove-rd/">
+              More Available Units
+             </a>
+            </div>
+            <div class="col-12" id="filter-zero-results" style="display: none">
+             <div class="py-5 px-3 text-center">
+              No results match your filters
+             </div>
+            </div>
+            <div class="col-12 px-3 my-4">
+             <div class="row px-3">
+              <div class="col-12">
+               <p class="mb-3 ml-2 ml-lg-0">
+                <span class="font-weight-bold">
+                 Didn't find your unit?
+                </span>
+                Try these nearby locations
+               </p>
+              </div>
+              <div class="col-12 col-sm-6 col-md-6 col-lg-12 col-xl-6">
+               <div class="d-flex align-items-center nearby-facility position-relative mb-2">
+                <div class="nearby-facility-img">
+                 <img alt="Self Storage Units in Saint John - Golden Grove Rd." data-lazy-src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/grid-1-90x60.jpg" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2090%2060'%3E%3C/svg%3E" width="90"/>
+                 <noscript>
+                  <img alt="Self Storage Units in Saint John - Golden Grove Rd." height="60" src="https://cdn.minimallstorage.com/wp-content/uploads/2021/10/grid-1-90x60.jpg" width="90"/>
+                 </noscript>
+                </div>
+                <p class="location-txt mb-0">
+                 <a class="stretched-link" href="https://www.minimallstorage.com/self-storage/new-brunswick/saint-john/77-golden-grove-rd/">
+                  77 Golden Grove Rd.
+                  <br/>
+                  Saint John, New Brunswick E2H 1W6
+                 </a>
+                </p>
+               </div>
+              </div>
+              <button class="locations-trigger btn btn-secondary mt-2 ml-3">
+               Locations on Map
+              </button>
+             </div>
+            </div>
+            <div class="facility-map-info" data-lat="45.315716" data-lng="-66.019225" id="map-info-2202">
+             <div class="map-info-window-container" style="display:none;">
+              <div class="map-info-window">
+               <div class="map-info-window-content">
+                <h4 class="infowindow-title">
+                 Self Storage Units in Saint John - Golden Grove Rd.
+                </h4>
+                <p class="infowindow-p">
+                 77 Golden Grove Rd.
+                 <br>
+                  Saint John, New Brunswick E2H 1W6
+                  <br>
+                   (506) 634-7867
+                  </br>
+                 </br>
+                </p>
+                <a class="btn btn-primary btn-sm btn-infowin" href="https://www.google.com/maps/dir/?api=1&amp;destination=Mini Mall Storage - Saint John - Golden Grove Rd., 77 Golden Grove Rd., Saint John, New Brunswick, E2H 1W6, Canada" role="button" target="_blank">
+                 Get Directions
+                </a>
+                <a class="btn btn-secondary btn-sm btn-infowin" href="https://www.minimallstorage.com/self-storage/new-brunswick/saint-john/77-golden-grove-rd/" role="button">
+                 Visit Facility
+                </a>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div aria-labelledby="v-pills-about-tab" class="tab-pane facility-about" id="about" role="tabpanel">
+           <div class="row">
+            <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 pl-4 pr-4 pl-sm-5 pr-sm-5">
+             <h2 class="wp-block-heading">
+              <strong>
+               Self-Storage in Saint John, NB, on Route 100
+              </strong>
+             </h2>
+             <p>
+              Self-storage near you has never been easier to rent than with Mini Mall Storage. With convenient storage units near north Saint John, NB, in Nauwigewauk, Mini Mall Storage on Route 100 has the perfect solution for a cluttered space. Our storage facility is next door to the Nauwigewauk Fire Department fire station and just a bit up the way from The Potting Shed and Flower Shop.
+             </p>
+             <p>
+              Immediately off Route 100, Mini Mall Storage can be an easy drive for many
+              <a href="https://www.minimallstorage.com/residential-storage/">
+               <strong>
+                residents
+               </strong>
+              </a>
+              and
+              <a href="https://www.minimallstorage.com/commercial-storage/">
+               <strong>
+                businesses
+               </strong>
+              </a>
+              in the area. We’re proud to serve the communities of Nauwigewauk, Lakeside, Bonney Road, French Village, Quispamsis, Rothesay, and north Saint John, NB.
+             </p>
+             <p>
+              Our self-storage facility is just minutes away from Palmer Brook and Darlings Lake, and we’re only a 10-minute drive from Meenan’s Cove Beach, making us perfect for local businesses, residents, and frequent seasonal cove visitors alike.
+             </p>
+             <h2 class="wp-block-heading">
+              <strong>
+               24-Hour Access Storage Near the Kennebecasis River
+              </strong>
+             </h2>
+             <p>
+              Storage in Saint John, NB, can be entirely on your own terms. In addition to our month-to-month storage rentals that guarantee flexibility, we also offer 24-hour access to our self-storage facility. Put these two excellent storage features together, and you get self-storage that is entirely centered around your schedule.
+             </p>
+             <p>
+              Rent one of our storage units near you to enjoy maximum convenience. Choose from our available sizes, including 5’ x 10’, 10’ x 10’, and 10’ x 20’ storage units. If you’re unsure which size will be the best fit for you, help yourself to our
+              <a href="https://www.minimallstorage.com/size-calculator/">
+               <strong>
+                storage calculator
+               </strong>
+              </a>
+              . With this tool, you can input the items you’ll be placing in your storage unit, and it’ll estimate the unit size that will best suit your needs.
+             </p>
+             <h2 class="wp-block-heading">
+              <strong>
+               Saint John, NB, Self-Storage Features
+              </strong>
+             </h2>
+             <p>
+              When you pair affordable storage with cutting-edge features, you get a Mini Mall Storage facility. Our location on Route 100 has everything you need for successful self-storage north of Saint John, NB. Drive-up storage access keeps your moving job quick and easy, enabling you to park your car, truck, or moving van right in front of your unit, which saves you time and trouble.
+             </p>
+             <p>
+              Convenience continues with online rentals. All of our storage units can be browsed and rented from our website. When you view our available units online, not only will you see the size of the unit, but can also see the price of the unit, its features, and any discounts, promotions, or exclusive web rates being offered.
+             </p>
+             <p>
+              Other
+              <a href="https://www.minimallstorage.com/storage-features/">
+               <strong>
+                storage features
+               </strong>
+              </a>
+              include:
+             </p>
+             <ul>
+              <li>
+               24-hour access
+              </li>
+              <li>
+               Automatic payment options
+              </li>
+              <li>
+               <a href="https://www.minimallstorage.com/pay-online/#/login">
+                <strong>
+                 Online bill pay
+                </strong>
+               </a>
+               <strong>
+               </strong>
+              </li>
+              <li>
+               Digital video recording
+              </li>
+             </ul>
+             <h2 class="wp-block-heading">
+              <strong>
+               Reserve Your Saint John, NB, Storage Unit at Mini Mall Storage Today
+              </strong>
+             </h2>
+             <p>
+              There’s nothing like a clean, breathable space in your home or business. When you have the room you need to move and grow, you’ll be thrilled to discover all the ways a self-storage unit north of Saint John, NB, can benefit your day-to-day life, so get started today!
+             </p>
+             <p>
+              Located right on Route 100, our storage facility is easily accessible here right across from the Nauwigewauk Loop. When you’re ready to rent storage near you, give us a call or
+              <a href="https://www.minimallstorage.com/self-storage/new-brunswick/nauwigewauk/298-route-100/#units">
+               <strong>
+                browse our available storage units online
+               </strong>
+              </a>
+              .
+             </p>
+            </div>
+           </div>
+          </div>
+          <div aria-labelledby="v-pills-features-tab" class="tab-pane facility-features" id="features" role="tabpanel">
+           <h3 class="font-weight-bolder text-center">
+            Features &amp; Amenities
+           </h3>
+           <p class="text-center">
+            Every storage feature is designed from scratch against standards forged from years of experience in the self storage industry. The result is a high quality consistent customer experience you can count on.
+           </p>
+           <div class="row p-3">
+            <div class="col-12 col-sm-4 col-xxl-3 d-flex align-self-stretch">
+             <div class="feature-grid-item facility-item">
+              <span class="brand-secondary fa-3x mb-2">
+              </span>
+              24 Hours Access
+             </div>
+            </div>
+            <div class="col-12 col-sm-4 col-xxl-3 d-flex align-self-stretch">
+             <div class="feature-grid-item facility-item">
+              <span class="brand-secondary fa-3x mb-2">
+              </span>
+              Auto Pay
+             </div>
+            </div>
+            <div class="col-12 col-sm-4 col-xxl-3 d-flex align-self-stretch">
+             <div class="feature-grid-item facility-item">
+              <span class="brand-secondary fa-3x mb-2">
+              </span>
+              Drive-up Access
+             </div>
+            </div>
+            <div class="col-12 col-sm-4 col-xxl-3 d-flex align-self-stretch">
+             <div class="feature-grid-item facility-item">
+              <span class="brand-secondary fa-3x mb-2">
+              </span>
+              Online Bill Pay
+             </div>
+            </div>
+            <div class="col-12 col-sm-4 col-xxl-3 d-flex align-self-stretch">
+             <div class="feature-grid-item facility-item">
+              <span class="brand-secondary fa-3x mb-2">
+              </span>
+              Secure Units
+             </div>
+            </div>
+            <div class="col-12 col-sm-4 col-xxl-3 d-flex align-self-stretch">
+             <div class="feature-grid-item facility-item">
+              <span class="brand-secondary fa-3x mb-2">
+              </span>
+              Security Camera
+             </div>
+            </div>
+           </div>
+           <div class="d-block text-center mt-3 mb-3">
+            <button class="view-units-trigger btn btn-pill btn-rent">
+             Rent or Reserve Now
+            </button>
+           </div>
+          </div>
+          <div aria-labelledby="v-pills-map-tab" class="tab-pane fac-map" id="facMap" role="tabpanel">
+           <div class="h-100" id="theMap">
+           </div>
+          </div>
+         </div>
+         <div class="fac-reviews pl-3 pr-3 pb-3 pt-0" data-reviews-per="4">
+          <div class="row">
+           <div class="col-12">
+            <h4 class="font-weight-bold mt-0">
+             What Our Customers Are Saying
+            </h4>
+           </div>
+           <div class="col-12 col-md-6 col-lg-12 col-xl-6 customer-review">
+            <div class="fac-review">
+             <div class="review-star-row">
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+             </div>
+             <p id="review_text_full_0">
+              Jacqueline is awesome.  Really provided great service and advice.  Pleasure to deal with her!
+             </p>
+             <span class="reviewer">
+              Cindy Yelle
+             </span>
+            </div>
+           </div>
+           <div class="col-12 col-md-6 col-lg-12 col-xl-6 customer-review">
+            <div class="fac-review">
+             <div class="review-star-row">
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+             </div>
+             <p id="review_text_full_1">
+              Great service and prices. Would recommend to anybody needing short or long term storage solutions. Very pleased.
+             </p>
+             <span class="reviewer">
+              J C
+             </span>
+            </div>
+           </div>
+           <div class="col-12 col-md-6 col-lg-12 col-xl-6 customer-review">
+            <div class="fac-review">
+             <div class="review-star-row">
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+             </div>
+             <p id="review_text_full_2">
+              Great service and prices. Would recommend to anybody needing short or long term storage solutions. Very pleased.
+             </p>
+             <span class="reviewer">
+              Justen
+             </span>
+            </div>
+           </div>
+           <div class="col-12 col-md-6 col-lg-12 col-xl-6 customer-review">
+            <div class="fac-review">
+             <div class="review-star-row">
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+             </div>
+             <p id="review_text_full_3">
+              Very good experience with this company. Very good prices and very speedy &amp; flexible customer service. No problems encountered at all :)
+             </p>
+             <span class="reviewer">
+              lynds w
+             </span>
+            </div>
+           </div>
+           <div class="col-12 col-md-6 col-lg-12 col-xl-6 customer-review d-none">
+            <div class="fac-review">
+             <div class="review-star-row">
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+             </div>
+             <p id="review_text_full_4">
+              Absolutely would recommend Hampton Valley Storage.  Very clean and they are so accommodating. Awesome people to deal with. Very affordable. Highly recommend
+             </p>
+             <span class="reviewer">
+              Barb Fowlow
+             </span>
+            </div>
+           </div>
+           <div class="col-12 col-md-6 col-lg-12 col-xl-6 customer-review d-none">
+            <div class="fac-review">
+             <div class="review-star-row">
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+             </div>
+             <p id="review_text_excerpt_5">
+              I strongly recommend Hampton Valley Storage they have Great Prices and Service.  The Staff were very helpful and accommodating.  The units are new and very clea...
+              <span class="text-primary cursor-pointer" onclick="document.querySelector('#review_text_excerpt_5').classList.add('d-none'); document.querySelector('#review_text_full_5').classList.remove('d-none');">
+               Read More
+              </span>
+             </p>
+             <p class="d-none" id="review_text_full_5">
+              I strongly recommend Hampton Valley Storage they have Great Prices and Service.  The Staff were very helpful and accommodating.  The units are new and very clean.  Will defiantly use them again, for quick, easy access and great staff you won't bet HAMPTON VALLEY STORAGE!
+THANK YOU
+KIRK
+             </p>
+             <span class="reviewer">
+              Eileen Burns
+             </span>
+            </div>
+           </div>
+           <div class="col-12 col-md-6 col-lg-12 col-xl-6 customer-review d-none">
+            <div class="fac-review">
+             <div class="review-star-row">
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+             </div>
+             <p id="review_text_excerpt_6">
+              It seems that often companies forget how important customer service is - definitely NOT the case here... totally excellent with Hampton Valley Storage.  When I ...
+              <span class="text-primary cursor-pointer" onclick="document.querySelector('#review_text_excerpt_6').classList.add('d-none'); document.querySelector('#review_text_full_6').classList.remove('d-none');">
+               Read More
+              </span>
+             </p>
+             <p class="d-none" id="review_text_full_6">
+              It seems that often companies forget how important customer service is - definitely NOT the case here... totally excellent with Hampton Valley Storage.  When I made contact to rent,  before it was confirmed he called me back to be sure I knew the units were renting fast.
+Should we need a unit in the future HVS gets my first call!
+             </p>
+             <span class="reviewer">
+              B Reicker
+             </span>
+            </div>
+           </div>
+           <div class="col-12 col-md-6 col-lg-12 col-xl-6 customer-review d-none">
+            <div class="fac-review">
+             <div class="review-star-row">
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+             </div>
+             <p id="review_text_excerpt_7">
+              We rented our first locker from Hampton Valley Storage. Best rates around. The lockers are immaculate. The transaction went very smoothly. After needing a secon...
+              <span class="text-primary cursor-pointer" onclick="document.querySelector('#review_text_excerpt_7').classList.add('d-none'); document.querySelector('#review_text_full_7').classList.remove('d-none');">
+               Read More
+              </span>
+             </p>
+             <p class="d-none" id="review_text_full_7">
+              We rented our first locker from Hampton Valley Storage. Best rates around. The lockers are immaculate. The transaction went very smoothly. After needing a second locker at the last minute, the owner was quick to reply and treated us exceptionally. We would highly recommend Hampton Valley Storage.
+             </p>
+             <span class="reviewer">
+              M Bamford
+             </span>
+            </div>
+           </div>
+           <div class="col-12 col-md-6 col-lg-12 col-xl-6 customer-review d-none">
+            <div class="fac-review">
+             <div class="review-star-row">
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+             </div>
+             <p id="review_text_excerpt_8">
+              Great experience!  Large, clean units and owners were very accommodating to our needs.  Contacted them in the summer of 2020 looking for short term storage arou...
+              <span class="text-primary cursor-pointer" onclick="document.querySelector('#review_text_excerpt_8').classList.add('d-none'); document.querySelector('#review_text_full_8').classList.remove('d-none');">
+               Read More
+              </span>
+             </p>
+             <p class="d-none" id="review_text_full_8">
+              Great experience!  Large, clean units and owners were very accommodating to our needs.  Contacted them in the summer of 2020 looking for short term storage around moving houses.  Owner very engaged and was very good to help us through the process.  Would recommend this facility and definitely use them again for storage solutions.
+             </p>
+             <span class="reviewer">
+              Jim&amp;Maggie T
+             </span>
+            </div>
+           </div>
+           <div class="col-12 col-md-6 col-lg-12 col-xl-6 customer-review d-none">
+            <div class="fac-review">
+             <div class="review-star-row">
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+              <span class="fas fa-star brand-secondary">
+              </span>
+             </div>
+             <p id="review_text_excerpt_9">
+              We could not be happier with the service both Jim and I received from Hampton Valley storage! Friendly, fast and very accommodating and affordable!  Extremely f...
+              <span class="text-primary cursor-pointer" onclick="document.querySelector('#review_text_excerpt_9').classList.add('d-none'); document.querySelector('#review_text_full_9').classList.remove('d-none');">
+               Read More
+              </span>
+             </p>
+             <p class="d-none" id="review_text_full_9">
+              We could not be happier with the service both Jim and I received from Hampton Valley storage! Friendly, fast and very accommodating and affordable!  Extremely fast response time and we highly recommended for anyone needing storage.  Thanks agian Kirk!
+             </p>
+             <span class="reviewer">
+              angela shonaman
+             </span>
+            </div>
+           </div>
+           <div class="col-12 text-center mt-5 mb-3" id="load_more_reviews">
+            <button class="btn btn-primary">
+             More Reviews
+            </button>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="fac-faq pl-3 pr-3 pb-3 pt-0">
+        <div class="row">
+         <div class="col-12">
+          <h4 class="font-weight-bold mt-0">
+           Have a Question?
+          </h4>
+          <div class="accordion mt-3" id="faqAccordion">
+           <div class="card">
+            <div class="card-header" id="headingOne">
+             <h2 class="mb-0">
+              <button aria-controls="collapseOne" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse-1" data-toggle="collapse" type="button">
+               <span>
+                What Can a 10x20 Storage Unit Hold in Saint John?
+               </span>
+              </button>
+             </h2>
+            </div>
+            <div aria-labelledby="headingOne" class="collapse" data-parent="#faqAccordion" id="collapse-1">
+             <div class="card-body">
+              <p>
+               <span class="TextRun SCXW1229698 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US">
+                <span class="NormalTextRun SCXW1229698 BCX0">
+                 A 10 x20 storage unit is around the size of a single car garage. We recommend this size for more significant self-storage needs, like freeing up space to stage your home, during a remodel or in between moves.
+                </span>
+               </span>
+               <span class="EOP SCXW1229698 BCX0" data-ccp-props='{"201341983":0,"335559739":150,"335559740":240,"469777462":[916,1832,2748,3664,4580,5496,6412,7328,8244,9160,10076,10992,11908,12824,13740,14656],"469777927":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"469777928":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}'>
+               </span>
+              </p>
+             </div>
+            </div>
+           </div>
+           <div class="card">
+            <div class="card-header" id="headingOne">
+             <h2 class="mb-0">
+              <button aria-controls="collapseOne" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse-2" data-toggle="collapse" type="button">
+               <span>
+                What can a 10x10 unit hold in Saint John?
+               </span>
+              </button>
+             </h2>
+            </div>
+            <div aria-labelledby="headingOne" class="collapse" data-parent="#faqAccordion" id="collapse-2">
+             <div class="card-body">
+              <p>
+               <span class="TextRun SCXW75029085 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US">
+                <span class="NormalTextRun SCXW75029085 BCX0">
+                 A 10×10 is about half the size of a standard garage. With the capacity to hold a king-sized bed, larger bedroom furniture, and oh-so-many boxes, the options for this unit are
+                </span>
+                <span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW75029085 BCX0">
+                 expansive
+                </span>
+                <span class="NormalTextRun SCXW75029085 BCX0">
+                 .
+                </span>
+               </span>
+               <span class="EOP SCXW75029085 BCX0" data-ccp-props='{"201341983":0,"335559739":150,"335559740":240,"469777462":[916,1832,2748,3664,4580,5496,6412,7328,8244,9160,10076,10992,11908,12824,13740,14656],"469777927":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"469777928":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}'>
+               </span>
+              </p>
+             </div>
+            </div>
+           </div>
+           <div class="card">
+            <div class="card-header" id="headingOne">
+             <h2 class="mb-0">
+              <button aria-controls="collapseOne" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse-3" data-toggle="collapse" type="button">
+               <span>
+                What can a 5x5 unit hold in Saint John?
+               </span>
+              </button>
+             </h2>
+            </div>
+            <div aria-labelledby="headingOne" class="collapse" data-parent="#faqAccordion" id="collapse-3">
+             <div class="card-body">
+              <p>
+               <span class="TextRun SCXW260122499 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US">
+                <span class="NormalTextRun SCXW260122499 BCX0">
+                 A 5×5 is about the size of a
+                </span>
+                <span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW260122499 BCX0">
+                 walk in
+                </span>
+                <span class="NormalTextRun SCXW260122499 BCX0">
+                 closet.
+                </span>
+                <span class="NormalTextRun SCXW260122499 BCX0">
+                 While it’s small enough to easily manage household clutter, seasonal decor, and boxes, it’s also great for appliances, small furniture, and odd shapes like camping gear or sports equipment. Think of it like a walk-in closet that isn’t attached to your bedroom.
+                </span>
+               </span>
+               <span class="EOP SCXW260122499 BCX0" data-ccp-props='{"201341983":0,"335559739":150,"335559740":240,"469777462":[916,1832,2748,3664,4580,5496,6412,7328,8244,9160,10076,10992,11908,12824,13740,14656],"469777927":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"469777928":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}'>
+               </span>
+              </p>
+             </div>
+            </div>
+           </div>
+           <div class="card">
+            <div class="card-header" id="headingOne">
+             <h2 class="mb-0">
+              <button aria-controls="collapseOne" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse-4" data-toggle="collapse" type="button">
+               <span>
+                What documents do I need to rent a storage unit in Saint John?
+               </span>
+              </button>
+             </h2>
+            </div>
+            <div aria-labelledby="headingOne" class="collapse" data-parent="#faqAccordion" id="collapse-4">
+             <div class="card-body">
+              <p>
+               <span class="TextRun SCXW143248378 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US">
+                <span class="NormalTextRun SCXW143248378 BCX0">
+                 T
+                </span>
+                <span class="NormalTextRun SCXW143248378 BCX0">
+                 o rent a storage unit with Mini Mall Storage, you’ll need a valid form of government-issued ID, such as a driver’s license, passport, or provincial ID.
+                </span>
+               </span>
+               <span class="EOP SCXW143248378 BCX0" data-ccp-props='{"201341983":0,"335559739":150,"335559740":240,"469777462":[916,1832,2748,3664,4580,5496,6412,7328,8244,9160,10076,10992,11908,12824,13740,14656],"469777927":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"469777928":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}'>
+               </span>
+              </p>
+             </div>
+            </div>
+           </div>
+           <div class="card">
+            <div class="card-header" id="headingOne">
+             <h2 class="mb-0">
+              <button aria-controls="collapseOne" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse-5" data-toggle="collapse" type="button">
+               <span>
+                What items am I not allowed to store in a storage unit in Saint John?
+               </span>
+              </button>
+             </h2>
+            </div>
+            <div aria-labelledby="headingOne" class="collapse" data-parent="#faqAccordion" id="collapse-5">
+             <div class="card-body">
+              <p>
+               <span class="TextRun SCXW74872593 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US">
+                <span class="NormalTextRun SCXW74872593 BCX0">
+                 We do not allow tenants to store stolen or illegal goods in our storage units. Additionally, we disallow flammable or hazardous items, combustible items or liquids, plants, perishable goods, or animals. For additional and more specific information about what you cannot store, please
+                </span>
+                <span class="NormalTextRun SCXW74872593 BCX0">
+                 contact us
+                </span>
+                <span class="NormalTextRun SCXW74872593 BCX0">
+                 .
+                </span>
+               </span>
+               <span class="EOP SCXW74872593 BCX0" data-ccp-props='{"201341983":0,"335559739":150,"335559740":240,"469777462":[916,1832,2748,3664,4580,5496,6412,7328,8244,9160,10076,10992,11908,12824,13740,14656],"469777927":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"469777928":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}'>
+               </span>
+              </p>
+             </div>
+            </div>
+           </div>
+           <div class="card">
+            <div class="card-header" id="headingOne">
+             <h2 class="mb-0">
+              <button aria-controls="collapseOne" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse-6" data-toggle="collapse" type="button">
+               <span>
+                What is the advantage of drive-up access storage units in Saint John?
+               </span>
+              </button>
+             </h2>
+            </div>
+            <div aria-labelledby="headingOne" class="collapse" data-parent="#faqAccordion" id="collapse-6">
+             <div class="card-body">
+              <p>
+               <span class="TextRun SCXW191726718 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US">
+                <span class="NormalTextRun SCXW191726718 BCX0">
+                 Drive-up storage units allow tenants to drive up to, load, and unload their storage unit. This is especially useful for transporting large items. Drive-up storage units are tall, convenient, and located on the ground floor so that you don’t have to navigate stairs or elevators.
+                </span>
+               </span>
+               <span class="EOP SCXW191726718 BCX0" data-ccp-props='{"201341983":0,"335559739":150,"335559740":240,"469777462":[916,1832,2748,3664,4580,5496,6412,7328,8244,9160,10076,10992,11908,12824,13740,14656],"469777927":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"469777928":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}'>
+               </span>
+              </p>
+             </div>
+            </div>
+           </div>
+           <div class="card">
+            <div class="card-header" id="headingOne">
+             <h2 class="mb-0">
+              <button aria-controls="collapseOne" aria-expanded="false" class="btn btn-link collapsed" data-target="#collapse-7" data-toggle="collapse" type="button">
+               <span>
+                Do I need Insurance for a Storage Unit in Saint John?
+               </span>
+              </button>
+             </h2>
+            </div>
+            <div aria-labelledby="headingOne" class="collapse" data-parent="#faqAccordion" id="collapse-7">
+             <div class="card-body">
+              <p>
+               <span class="TextRun SCXW79903058 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US">
+                <span class="NormalTextRun SCXW79903058 BCX0">
+                 Absolutely! It’s important to us that your belongings are protected. Therefore, we require all tenants to
+                </span>
+                <span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW79903058 BCX0">
+                 hold
+                </span>
+                <span class="NormalTextRun SCXW79903058 BCX0">
+                 a valid insurance policy. Get covered with your own insurance plan and provide proof of coverage with your policy number, coverage overview, start date, and expiry date. Alternatively, we offer tenants coverage through our Mini Mall Storage Protection Plan. This provides $5,000 in coverage for $19.95 plus tax, charged on the first of each month, hassle-free with your usual bill. Speak to your Storage Concierge Specialist to learn more.
+                </span>
+               </span>
+               <span class="EOP SCXW79903058 BCX0" data-ccp-props='{"201341983":0,"335559739":150,"335559740":240,"469777462":[916,1832,2748,3664,4580,5496,6412,7328,8244,9160,10076,10992,11908,12824,13740,14656],"469777927":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"469777928":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}'>
+               </span>
+              </p>
+             </div>
+            </div>
+           </div>
+          </div>
+          <!-- /accordion -->
+         </div>
+        </div>
+       </div>
+       <!-- end faq -->
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="d-block d-sm-none ctc-container">
+    <a href="tel:506-634-7867">
+     <span class="fa-stack fa-2x">
+      <i class="fa fa-circle fa-stack-2x" style="color: #d8601e;">
+      </i>
+      <i class="fas fa-phone fa-stack-1x fa-inverse" style="color: white;">
+      </i>
+     </span>
+    </a>
+   </div>
+   <div class="se">
+    <!-- SE Size Guide Component -->
+    <div aria-hidden="true" aria-labelledby="Size Guide" class="modal fade" id="sizeGuideModal" role="dialog" tabindex="-1">
+     <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+       <div class="modal-header">
+        <h5 class="modal-title" id="sizeGuideTitle">
+         Size Guide
+        </h5>
+        <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+         <span aria-hidden="true">
+          <div class="fal fa-times">
+          </div>
+         </span>
+        </button>
+       </div>
+       <div class="modal-body pt-0">
+        <div id="sizeGuide">
+         <button class="btn btn-primary btn-block show-nav-btn p-3">
+          Select a Size
+          <span class="far fa-angle-down">
+          </span>
+         </button>
+         <div class="row no-gutters">
+          <div class="col-12 col-lg-5">
+           <div aria-orientation="vertical" class="nav flex-column nav-column nav-pills hideme br-lg" id="v-pills-tab" role="tablist">
+            <a aria-controls="v-pills-5x5" aria-selected="false" class="nav-link active" data-toggle="pill" data-vidid="306856494" href="#v-pills-5x5" id="v-pills-5x5-tab" role="tab">
+             <div class="d-flex justify-content-start align-items-center">
+              <div class="pl-1 d-flex align-items-center">
+               <img alt="5x5 Unit" class="bldg-thb mr-3" data-lazy-src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/unit-sizes-thbs/5x5.png" height="100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E" width="100"/>
+               <noscript>
+                <img alt="5x5 Unit" class="bldg-thb mr-3" height="100" src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/unit-sizes-thbs/5x5.png" width="100"/>
+               </noscript>
+               <div>
+                <h2 class="title sg-title">
+                 5' X 5'
+                </h2>
+                <p>
+                 Equivalent to a standard walk-in closet
+                </p>
+               </div>
+              </div>
+             </div>
+            </a>
+            <hr/>
+            <a aria-controls="v-pills-5x10" aria-selected="false" class="nav-link" data-toggle="pill" data-vidid="306856334" href="#v-pills-5x10" id="v-pills-5x10-tab" role="tab">
+             <div class="d-flex justify-content-start align-items-center">
+              <div class="pl-1 d-flex align-items-center">
+               <img alt="5x10 Unit" class="bldg-thb mr-3" data-lazy-src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/unit-sizes-thbs/5x10.png" height="100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E" width="100"/>
+               <noscript>
+                <img alt="5x10 Unit" class="bldg-thb mr-3" height="100" src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/unit-sizes-thbs/5x10.png" width="100"/>
+               </noscript>
+               <div>
+                <h2 class="title sg-title">
+                 5' X 10'
+                </h2>
+                <p>
+                 Equivalent to a large shed
+                </p>
+               </div>
+              </div>
+             </div>
+            </a>
+            <hr/>
+            <a aria-controls="v-pills-10x10" aria-selected="false" class="nav-link" data-toggle="pill" data-vidid="306856379" href="#v-pills-10x10" id="v-pills-10x10-tab" role="tab">
+             <div class="d-flex justify-content-start align-items-center">
+              <div class="pl-1 d-flex align-items-center">
+               <img alt="10x10 Unit" class="bldg-thb mr-3" data-lazy-src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/unit-sizes-thbs/10x10.png" height="100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E" width="100"/>
+               <noscript>
+                <img alt="10x10 Unit" class="bldg-thb mr-3" height="100" src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/unit-sizes-thbs/10x10.png" width="100"/>
+               </noscript>
+               <div>
+                <h2 class="title sg-title">
+                 10' X 10'
+                </h2>
+                <p>
+                 Equivalent to half of a standard garage and good for a one-bedroom apartment
+                </p>
+               </div>
+              </div>
+             </div>
+            </a>
+            <hr/>
+            <a aria-controls="v-pills-10x15" aria-selected="false" class="nav-link" data-toggle="pill" data-vidid="306856482" href="#v-pills-10x15" id="v-pills-10x15-tab" role="tab">
+             <div class="d-flex justify-content-start align-items-center">
+              <div class="pl-1 d-flex align-items-center">
+               <img alt="10x15 Unit" class="bldg-thb mr-3" data-lazy-src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/unit-sizes-thbs/10x15.png" height="100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E" width="100"/>
+               <noscript>
+                <img alt="10x15 Unit" class="bldg-thb mr-3" height="100" src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/unit-sizes-thbs/10x15.png" width="100"/>
+               </noscript>
+               <div>
+                <h2 class="title sg-title">
+                 10' X 15'
+                </h2>
+                <p>
+                 Equivalent to a large bedroom and good for a small house
+                </p>
+               </div>
+              </div>
+             </div>
+            </a>
+            <hr/>
+            <a aria-controls="v-pills-10x20" aria-selected="false" class="nav-link" data-toggle="pill" data-vidid="306856450" href="#v-pills-10x20" id="v-pills-10x20-tab" role="tab">
+             <div class="d-flex justify-content-start align-items-center">
+              <div class="pl-1 d-flex align-items-center">
+               <img alt="10x20 Unit" class="bldg-thb mr-3" data-lazy-src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/unit-sizes-thbs/10x20.png" height="100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E" width="100"/>
+               <noscript>
+                <img alt="10x20 Unit" class="bldg-thb mr-3" height="100" src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/unit-sizes-thbs/10x20.png" width="100"/>
+               </noscript>
+               <div>
+                <h2 class="title sg-title">
+                 10' X 20'
+                </h2>
+                <p>
+                 Equivalent to a small garage and good for a mid-size house
+                </p>
+               </div>
+              </div>
+             </div>
+            </a>
+            <hr/>
+            <a aria-controls="v-pills-10x30" aria-selected="false" class="nav-link" data-toggle="pill" data-vidid="306856358" href="#v-pills-10x30" id="v-pills-10x30-tab" role="tab">
+             <div class="d-flex justify-content-start align-items-center">
+              <div class="pl-1 d-flex align-items-center">
+               <img alt="10x30 Unit" class="bldg-thb mr-3" data-lazy-src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/unit-sizes-thbs/10x30.png" height="100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E" width="100"/>
+               <noscript>
+                <img alt="10x30 Unit" class="bldg-thb mr-3" height="100" src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/unit-sizes-thbs/10x30.png" width="100"/>
+               </noscript>
+               <div>
+                <h2 class="title sg-title">
+                 10' X 30'
+                </h2>
+                <p>
+                 Equivalent to a large garage and good for a large house
+                </p>
+               </div>
+              </div>
+             </div>
+            </a>
+            <hr/>
+            <a aria-controls="v-pills-parking" aria-selected="false" class="nav-link" data-toggle="pill" data-vidid="306856398" href="#v-pills-parking" id="v-pills-parking-tab" role="tab">
+             <div class="d-flex justify-content-start align-items-center">
+              <div class="pl-1 d-flex align-items-center">
+               <img alt="Parking Unit" class="bldg-thb mr-3" data-lazy-src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/unit-sizes-thbs/covered.png" height="131" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20131'%3E%3C/svg%3E" width="200"/>
+               <noscript>
+                <img alt="Parking Unit" class="bldg-thb mr-3" height="131" src="https://cdn.minimallstorage.com/wp-content/themes/secur/assets/images/unit-sizes-thbs/covered.png" width="200"/>
+               </noscript>
+               <div>
+                <h2 class="title sg-title">
+                 Covered Parking
+                </h2>
+                <p>
+                 Varying vehicle storage sizes can accommodate cars, boats, and RVs
+                </p>
+               </div>
+              </div>
+             </div>
+            </a>
+           </div>
+          </div>
+          <div class="col-12 col-lg-7 pl-4 pr-4">
+           <div class="tab-content" id="v-pills-tabContent">
+            <div aria-labelledby="v-pills-5x5-tab" class="tab-pane show active" id="v-pills-5x5" role="tabpanel">
+             <div class="row">
+              <div class="col-12 pt-3">
+               <div class="embed-responsive embed-responsive-16by9 video-wrapper">
+               </div>
+               <strong class="d-block mt-3 content-header sg-dimensions bold-font">
+                5' x 5'
+               </strong>
+               <p class="mt-2">
+                This storage unit is small but mighty! Our 5x5, 25-square-foot spaces are about the size of a walk-in closet and great for holding household clutter, small furniture, and seasonal items.
+               </p>
+               <span class="d-block font-weight-bold mb-2 bold-font">
+                Ideal for storing:
+               </span>
+               <ul>
+                <li>
+                 Boxes of offseason clothing and old toys
+                </li>
+                <li>
+                 Small furniture or appliances
+                </li>
+                <li>
+                 Seasonal decor or equipment such as garden tools and camping gear
+                </li>
+                <li>
+                 Office supplies and business records and files
+                </li>
+               </ul>
+               <a class="btn btn-primary btn-lg mt-4 float-right mb-3" href="/self-storage/">
+                Find a Unit
+               </a>
+              </div>
+             </div>
+             <!-- /end row -->
+            </div>
+            <div aria-labelledby="v-pills-5x10-tab" class="tab-pane show" id="v-pills-5x10" role="tabpanel">
+             <div class="row">
+              <div class="col-12 pt-3">
+               <div class="embed-responsive embed-responsive-16by9 video-wrapper">
+               </div>
+               <strong class="d-block mt-3 content-header sg-dimensions bold-font">
+                5' x 10'
+               </strong>
+               <p class="mt-2">
+                This storage unit size is popular because it’s so versatile and functional. Our 5x10, 50-square-foot spaces are about the size of a large shed and great for holding various items from a small apartment or all the furnishings of a bedroom or office.
+               </p>
+               <span class="d-block font-weight-bold mb-2 bold-font">
+                Ideal for storing:
+               </span>
+               <ul>
+                <li>
+                 Mattress sets, dressers, and coffee tables
+                </li>
+                <li>
+                 Artwork, musical instruments, and mid-size electronics
+                </li>
+                <li>
+                 Seasonal decor or equipment such as garden tools, skis, and camping gear
+                </li>
+                <li>
+                 Business supplies, records, or inventory
+                </li>
+               </ul>
+               <a class="btn btn-primary btn-lg mt-4 float-right mb-3" href="/self-storage/">
+                Find a Unit
+               </a>
+              </div>
+              <!-- /end row -->
+             </div>
+            </div>
+            <div aria-labelledby="v-pills-10x10-tab" class="tab-pane" id="v-pills-10x10" role="tabpanel">
+             <div class="row">
+              <div class="col-12 pt-3">
+               <div class="embed-responsive embed-responsive-16by9 video-wrapper">
+               </div>
+               <strong class="d-block mt-3 content-header sg-dimensions bold-font">
+                10' x 10'
+               </strong>
+               <p class="mt-2">
+                This storage unit is not too big, not too small, but just right for bulky furniture or equipment. Our 10x10, 100-square-foot spaces are about the size of half of a standard garage and can fit the contents of a one-bedroom home.
+               </p>
+               <span class="d-block font-weight-bold mb-2 bold-font">
+                Ideal for storing:
+               </span>
+               <ul>
+                <li>
+                 Household furniture such as sofas, tables, dressers, mattress sets, and coffee or bedside tables
+                </li>
+                <li>
+                 Electronics and musical instruments
+                </li>
+                <li>
+                 Seasonal decor or equipment such as garden tools, bicycles, skis, and camping gear
+                </li>
+                <li>
+                 Office equipment such as desks, chairs, and shelves
+                </li>
+               </ul>
+               <a class="btn btn-primary btn-lg mt-4 float-right mb-3" href="/self-storage/">
+                Find a Unit
+               </a>
+              </div>
+             </div>
+             <!-- /end row -->
+            </div>
+            <div aria-labelledby="v-pills-10x15-tab" class="tab-pane" id="v-pills-10x15" role="tabpanel">
+             <div class="row">
+              <div class="col-12 pt-3">
+               <div class="embed-responsive embed-responsive-16by9 video-wrapper">
+               </div>
+               <strong class="d-block mt-3 content-header sg-dimensions bold-font">
+                10' x 15'
+               </strong>
+               <p class="mt-2">
+                Another popular choice, this storage unit is great for small families or households. Our 10x15, 150-square-foot spaces are about the size of a large bedroom and can fit the contents of a two-bedroom home.
+               </p>
+               <span class="d-block font-weight-bold mb-2 bold-font">
+                Ideal for storing:
+               </span>
+               <ul>
+                <li>
+                 Bulky household furniture such as sofas, dining tables, dressers, bedroom sets, and bookcases
+                </li>
+                <li>
+                 Major appliances such as washers, dryers, and refrigerators
+                </li>
+                <li>
+                 Outdoor equipment such as grills, bicycles, skis, and camping gear
+                </li>
+                <li>
+                 Commercial inventory and office equipment such as desks, chairs, and shelves
+                </li>
+               </ul>
+               <a class="btn btn-primary btn-lg mt-4 float-right mb-3" href="/self-storage/">
+                Find a Unit
+               </a>
+              </div>
+             </div>
+             <!-- /end row -->
+            </div>
+            <div aria-labelledby="v-pills-10x20-tab" class="tab-pane" id="v-pills-10x20" role="tabpanel">
+             <div class="row">
+              <div class="col-12 pt-3">
+               <div class="embed-responsive embed-responsive-16by9 video-wrapper">
+               </div>
+               <strong class="d-block mt-3 content-header sg-dimensions bold-font">
+                10' x 20'
+               </strong>
+               <p class="mt-2">
+                If you’re in between moves, staging your home for selling, or planning a big remodel, this storage unit might be the one for you. Our 10x20, 200-square-foot spaces are about the size of a small garage and can fit the contents of a three- or four-bedroom home.
+               </p>
+               <span class="d-block font-weight-bold mb-2 bold-font">
+                Ideal for storing:
+               </span>
+               <ul>
+                <li>
+                 Bulky household furniture such as sectional sofas, dining tables, mattress sets, dressers, and entertainment centers
+                </li>
+                <li>
+                 Major appliances such as washers, dryers, and refrigerators
+                </li>
+                <li>
+                 Large musical instruments or equipment such as pianos and TVs
+                </li>
+                <li>
+                 Outdoor equipment such as lawnmowers, grills, bicycles, skis, and camping gear
+                </li>
+                <li>
+                 Commercial inventory and office equipment such as desks, chairs, and shelves
+                </li>
+               </ul>
+               <a class="btn btn-primary btn-lg mt-4 float-right mb-3" href="/self-storage/">
+                Find a Unit
+               </a>
+              </div>
+             </div>
+             <!-- /end row -->
+            </div>
+            <div aria-labelledby="v-pills-10x30-tab" class="tab-pane" id="v-pills-10x30" role="tabpanel">
+             <div class="row">
+              <div class="col-12 pt-3">
+               <div class="embed-responsive embed-responsive-16by9 video-wrapper">
+               </div>
+               <strong class="d-block mt-3 content-header sg-dimensions bold-font">
+                10' x 30'
+               </strong>
+               <p class="mt-2">
+                This storage unit is about the size of a large garage for those seeking a major space solution. Our 10x30, 300-square-foot spaces offer enough room to fit the contents of a four- or five-bedroom home.
+               </p>
+               <span class="d-block font-weight-bold mb-2 bold-font">
+                Ideal for storing:
+               </span>
+               <ul>
+                <li>
+                 Items that aren’t easily boxed up
+                </li>
+                <li>
+                 Large household furniture such as sectional sofas, entertainment centers, and mattress and dining sets
+                </li>
+                <li>
+                 Major appliances such as washers, dryers, and refrigerators
+                </li>
+                <li>
+                 Outdoor equipment such as lawnmowers, grills, bicycles, and canoes or small boats
+                </li>
+                <li>
+                 Commercial inventory and office equipment such as desks, chairs, and shelves
+                </li>
+               </ul>
+               <a class="btn btn-primary btn-lg mt-4 float-right mb-3" href="/self-storage/">
+                Find a Unit
+               </a>
+              </div>
+             </div>
+             <!-- /end row -->
+            </div>
+            <div aria-labelledby="v-pills-parking-tab" class="tab-pane" id="v-pills-parking" role="tabpanel">
+             <div class="row">
+              <div class="col-12 pt-3">
+               <div class="embed-responsive embed-responsive-16by9 video-wrapper">
+               </div>
+               <strong class="d-block mt-3 content-header sg-dimensions bold-font">
+                Covered Parking
+               </strong>
+               <p class="mt-2">
+                Parking spaces and covered vehicle storage for your car, boat, or RV can keep your ride from consuming valuable space in your garage, all while shielding it from the elements—like sunshine, rain, or hail. Some of our covered parking units even include electricity, too. Find and contact a
+                <strong class="bold-font">
+                 self storage facility near you
+                </strong>
+                for location-specific car storage availability.
+               </p>
+               <a class="btn btn-primary btn-lg mt-4 float-right mb-3" href="/self-storage/">
+                Find a Unit
+               </a>
+              </div>
+             </div>
+             <!-- /end row -->
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <!-- modal body -->
+      </div>
+     </div>
+    </div>
+    <!-- /SE Size Guide Component -->
+   </div>
+   <!-- /SE Storage Essentials wrapper -->
+  </main>
+  <footer class="footer-gray">
+   <div class="footer-wrapper footer-padding">
+    <div class="container">
+     <div class="row footer-row">
+      <div class="col" id="footer-section-1">
+       <div class="col-12 col-xl-2 mb-3">
+        <a href="/">
+         <img alt="Mini Mall Storage Properties" class="img-fluid logo" data-lazy-src="https://cdn.minimallstorage.com/wp-content/themes/secur-child-minimallstorage/assets/images/MMSP-footer-logo-en.png" height="128" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20118%20128'%3E%3C/svg%3E" width="118"/>
+         <noscript>
+          <img alt="Mini Mall Storage Properties" class="img-fluid logo" height="128" src="https://cdn.minimallstorage.com/wp-content/themes/secur-child-minimallstorage/assets/images/MMSP-footer-logo-en.png" width="118"/>
+         </noscript>
+        </a>
+        <div class="contacts">
+         <div class="contacts-phone">
+          <a href="tel:1-833-621-0762">
+           1-833-621-0762
+          </a>
+         </div>
+         <div class="divider">
+         </div>
+         <div class="contacts-email">
+          <a href="mailto:info@minimallstorage.com">
+           info@minimallstorage.com
+          </a>
+         </div>
+        </div>
+        <div class="d-block">
+        </div>
+       </div>
+       <div class="locations-list col-12 col-md-3 col-lg-4 col-xl-3">
+        <span class="title">
+         Locations
+        </span>
+        <div class="menu-locations-container">
+         <ul class="menu" id="menu-locations">
+          <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-2953" id="menu-item-2953">
+           <a href="https://www.minimallstorage.com/self-storage/us/">
+            USA
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-2954" id="menu-item-2954">
+           <a href="https://www.minimallstorage.com/self-storage/ca/">
+            CA
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="col-12 col-md-3 col-lg-2">
+        <span class="title">
+         Storage Resources
+        </span>
+        <div class="menu-storage-resources-container">
+         <ul class="menu" id="menu-storage-resources">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28" id="menu-item-28">
+           <a href="/size-guide">
+            Size Guide
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3360" id="menu-item-3360">
+           <a href="https://www.minimallstorage.com/size-calculator/">
+            Storage Calculator
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29" id="menu-item-29">
+           <a href="/faqs">
+            FAQ
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3349" id="menu-item-3349">
+           <a href="https://www.minimallstorage.com/storage-tips/">
+            Storage Tips
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3361" id="menu-item-3361">
+           <a href="https://www.minimallstorage.com/packing-tips/">
+            Packing Tips
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3362" id="menu-item-3362">
+           <a href="https://www.minimallstorage.com/moving-guide/">
+            Moving Guide
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3363" id="menu-item-3363">
+           <a href="https://www.minimallstorage.com/storage-features/">
+            Storage Features
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3329" id="menu-item-3329">
+           <a href="https://www.minimallstorage.com/commercial-storage/">
+            Commercial Storage
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3327" id="menu-item-3327">
+           <a href="https://www.minimallstorage.com/residential-storage/">
+            Residential Storage
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3330" id="menu-item-3330">
+           <a href="https://www.minimallstorage.com/vehicle-storage/">
+            Vehicle Storage
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3328" id="menu-item-3328">
+           <a href="https://www.minimallstorage.com/storage-features/climate-controlled-storage/">
+            Climate-Controlled Storage
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="col-12 col-md-3 col-lg-2">
+        <span class="title">
+         About
+        </span>
+        <div class="menu-about-container">
+         <ul class="menu" id="menu-about">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3355" id="menu-item-3355">
+           <a href="https://www.minimallstorage.com/about-us/">
+            About Us
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32" id="menu-item-32">
+           <a href="https://recruiting.ultipro.ca/AVE5000AVLV/JobBoard/fe8436da-c335-40f9-a951-4c4aa84c1846/?q=&amp;o=postedDateDesc" rel="noopener" target="_blank">
+            Careers
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3357" id="menu-item-3357">
+           <a href="https://www.minimallstorage.com/contact-us/">
+            Contact Us
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-3356" id="menu-item-3356">
+           <a href="https://www.minimallstorage.com/blog/">
+            Blog
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4084" id="menu-item-4084">
+           <a href="https://www.minimallstorage.com/acquisitions-2-2-2/">
+            Looking to Sell?
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class="col-6" id="footer-section-2">
+       <div class="locations-list col-12 col-md-3 col-lg-4 col-xl-3">
+        <span class="title">
+         Locations
+        </span>
+        <div class="menu-locations-container">
+         <ul class="menu" id="menu-locations-1">
+          <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-2953">
+           <a href="https://www.minimallstorage.com/self-storage/us/">
+            USA
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-facility menu-item-2954">
+           <a href="https://www.minimallstorage.com/self-storage/ca/">
+            CA
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="col-12 col-md-3 col-lg-2">
+        <span class="title">
+         Storage Resources
+        </span>
+        <div class="menu-storage-resources-container">
+         <ul class="menu" id="menu-storage-resources-1">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28">
+           <a href="/size-guide">
+            Size Guide
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3360">
+           <a href="https://www.minimallstorage.com/size-calculator/">
+            Storage Calculator
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29">
+           <a href="/faqs">
+            FAQ
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3349">
+           <a href="https://www.minimallstorage.com/storage-tips/">
+            Storage Tips
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3361">
+           <a href="https://www.minimallstorage.com/packing-tips/">
+            Packing Tips
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3362">
+           <a href="https://www.minimallstorage.com/moving-guide/">
+            Moving Guide
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3363">
+           <a href="https://www.minimallstorage.com/storage-features/">
+            Storage Features
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3329">
+           <a href="https://www.minimallstorage.com/commercial-storage/">
+            Commercial Storage
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3327">
+           <a href="https://www.minimallstorage.com/residential-storage/">
+            Residential Storage
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3330">
+           <a href="https://www.minimallstorage.com/vehicle-storage/">
+            Vehicle Storage
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3328">
+           <a href="https://www.minimallstorage.com/storage-features/climate-controlled-storage/">
+            Climate-Controlled Storage
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="col-12 col-md-3 col-lg-2">
+        <span class="title">
+         About
+        </span>
+        <div class="menu-about-container">
+         <ul class="menu" id="menu-about-1">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3355">
+           <a href="https://www.minimallstorage.com/about-us/">
+            About Us
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32">
+           <a href="https://recruiting.ultipro.ca/AVE5000AVLV/JobBoard/fe8436da-c335-40f9-a951-4c4aa84c1846/?q=&amp;o=postedDateDesc" rel="noopener" target="_blank">
+            Careers
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3357">
+           <a href="https://www.minimallstorage.com/contact-us/">
+            Contact Us
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-3356">
+           <a href="https://www.minimallstorage.com/blog/">
+            Blog
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4084">
+           <a href="https://www.minimallstorage.com/acquisitions-2-2-2/">
+            Looking to Sell?
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div id="social-media-footer">
+       <div class="col">
+        <span class="title">
+         FOLLOW US
+        </span>
+        <div class="social-media-links-ftr">
+         <a aria-label="Minimall Facebook link" class="facebook-ftr" href="https://www.facebook.com/minimallstorage/" target="_blank">
+          <svg aria-hidden="true" focusable="false" height="24" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+           <path d="M12 2C6.5 2 2 6.5 2 12c0 5 3.7 9.1 8.4 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.3v7C18.3 21.1 22 17 22 12c0-5.5-4.5-10-10-10z">
+           </path>
+          </svg>
+         </a>
+         <a aria-label="Minimall Linkedin link" class="linkedin-ftr" href="https://www.linkedin.com/company/mini-mall-storage-properties/" target="_blank">
+          <svg aria-hidden="true" focusable="false" height="24" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+           <path d="M19.7,3H4.3C3.582,3,3,3.582,3,4.3v15.4C3,20.418,3.582,21,4.3,21h15.4c0.718,0,1.3-0.582,1.3-1.3V4.3 C21,3.582,20.418,3,19.7,3z M8.339,18.338H5.667v-8.59h2.672V18.338z M7.004,8.574c-0.857,0-1.549-0.694-1.549-1.548 c0-0.855,0.691-1.548,1.549-1.548c0.854,0,1.547,0.694,1.547,1.548C8.551,7.881,7.858,8.574,7.004,8.574z M18.339,18.338h-2.669 v-4.177c0-0.996-0.017-2.278-1.387-2.278c-1.389,0-1.601,1.086-1.601,2.206v4.249h-2.667v-8.59h2.559v1.174h0.037 c0.356-0.675,1.227-1.387,2.526-1.387c2.703,0,3.203,1.779,3.203,4.092V18.338z">
+           </path>
+          </svg>
+         </a>
+         <a aria-label="Minimall Twitter link" class="twitter-ftr" href="https://twitter.com/minimallstorage/" target="_blank">
+          <svg aria-hidden="true" focusable="false" height="24" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+           <path d="M22.23,5.924c-0.736,0.326-1.527,0.547-2.357,0.646c0.847-0.508,1.498-1.312,1.804-2.27 c-0.793,0.47-1.671,0.812-2.606,0.996C18.324,4.498,17.257,4,16.077,4c-2.266,0-4.103,1.837-4.103,4.103 c0,0.322,0.036,0.635,0.106,0.935C8.67,8.867,5.647,7.234,3.623,4.751C3.27,5.357,3.067,6.062,3.067,6.814 c0,1.424,0.724,2.679,1.825,3.415c-0.673-0.021-1.305-0.206-1.859-0.513c0,0.017,0,0.034,0,0.052c0,1.988,1.414,3.647,3.292,4.023 c-0.344,0.094-0.707,0.144-1.081,0.144c-0.264,0-0.521-0.026-0.772-0.074c0.522,1.63,2.038,2.816,3.833,2.85 c-1.404,1.1-3.174,1.756-5.096,1.756c-0.331,0-0.658-0.019-0.979-0.057c1.816,1.164,3.973,1.843,6.29,1.843 c7.547,0,11.675-6.252,11.675-11.675c0-0.178-0.004-0.355-0.012-0.531C20.985,7.47,21.68,6.747,22.23,5.924z">
+           </path>
+          </svg>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="footer-statement">
+    <div class="container">
+     <div class="row">
+      <div class="col-12 d-flex flex-column flex-lg-row">
+       <p class="m-0 p-0">
+        ©Copyright 2023 Mini Mall Storage Properties. All Rights Reserved.
+       </p>
+       <div class="menu-policies-menu-container">
+        <ul class="menu" id="menu-policies-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3415" id="menu-item-3415">
+          <a href="https://www.minimallstorage.com/terms-and-conditions/">
+           Terms and Conditions
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-3339" id="menu-item-3339">
+          <a href="https://www.minimallstorage.com/privacy-policy/" rel="privacy-policy">
+           Privacy Policy
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- Modal -->
+   <div aria-hidden="true" class="modal" id="lockModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+     <div class="modal-content">
+      <div class="modal-header">
+       <span class="ml-3 fw-600">
+        Choose your country to get your lock code.
+       </span>
+       <button aria-label="Close" class="close padded" data-dismiss="modal" type="button">
+        <span aria-hidden="true">
+         <span class="fal fa-times fa-sm">
+         </span>
+        </span>
+       </button>
+      </div>
+      <div class="modal-body">
+       <div class="container">
+        <div class="row mt-3">
+         <div class="col-12 col-lg-6 mb-3 mb-lg-0">
+          <div class="card">
+           <a class="btn btn-primary" href="https://minimallstorage.overlockrelease.com" target="_blank">
+            United States
+           </a>
+          </div>
+         </div>
+         <div class="col-12 col-lg-6">
+          <div class="card">
+           <a class="btn btn-primary" href="https://minimallcanada.overlockrelease.com" target="_blank">
+            Canada
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- Modal -->
+   <div aria-hidden="true" class="modal" id="splashModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+     <div class="modal-content">
+      <div class="modal-header">
+       <span class="ml-3 fw-600">
+        Choose an option that's right for you
+       </span>
+       <button aria-label="Close" class="close padded" data-dismiss="modal" type="button">
+        <span aria-hidden="true">
+         <span class="fal fa-times fa-sm">
+         </span>
+        </span>
+       </button>
+      </div>
+      <div class="modal-body">
+       <div class="container">
+        <div class="row mt-3">
+         <div class="col-12 col-lg-6 mb-3 mb-lg-0">
+          <div class="card">
+           <div class="card-header">
+            <span class="brand-primary">
+             Rent This Unit
+            </span>
+           </div>
+           <div class="card-body modal-rent">
+            <ul class="list-unstyled">
+             <li class="mb-2">
+              <span class="far fa-check fa-lg brand-secondary">
+              </span>
+              Move in as soon as today.
+             </li>
+             <li class="mb-2">
+              <span class="far fa-check fa-lg brand-secondary">
+              </span>
+              Simple online rental process.
+             </li>
+            </ul>
+            <form action="https://www.minimallstorage.com/rent-online/" method="POST">
+             <input name="fid" type="hidden" value="4475"/>
+             <input name="uid" type="hidden" value="0"/>
+             <button class="se-rent-button btn btn-rent btn-block mr-2 mb-1 mb-sm-0" type="submit">
+              Rent
+             </button>
+            </form>
+           </div>
+          </div>
+         </div>
+         <div class="col-12 col-lg-6">
+          <div class="card">
+           <div class="card-header">
+            <span class="brand-primary">
+             Reserve Your Unit
+            </span>
+           </div>
+           <div class="card-body modal-reserve">
+            <ul class="list-unstyled">
+             <li class="mb-2">
+              <span class="far fa-check fa-lg brand-secondary">
+              </span>
+              Move in when you're ready.
+             </li>
+             <li class="mb-2">
+              <span class="far fa-check fa-lg brand-secondary">
+              </span>
+              No obligation to rent.
+             </li>
+            </ul>
+            <form action="https://www.minimallstorage.com/reserve-online/" method="POST">
+             <input name="se_form_name" type="hidden" value="unit_table"/>
+             <input name="reservation_type" type="hidden" value=""/>
+             <input name="facility_id" type="hidden" value="4475"/>
+             <input name="_se_unit_id" type="hidden" value="0"/>
+             <button class="se-reserve-button btn btn-reserve btn-block mt-0 mb-sm-0" type="submit">
+              Reserve
+             </button>
+            </form>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <script src="https://cdn.minimallstorage.com/wp-content/uploads/winp-css-js/11460.js?ver=1683914463" type="text/javascript">
+  </script>
+  <script src="https://cdn.minimallstorage.com/wp-content/uploads/winp-css-js/7346.js?ver=1668532454" type="text/javascript">
+  </script>
+  <div class="wpc-filters-overlay">
+  </div>
+  <noscript>
+   <img alt="" height="1" src="https://www.facebook.com/tr?id=1493356901098560&amp;ev=PageView&amp;noscript=1&amp;cd%5Bpage_title%5D=Self+Storage+Units+in+Saint+John+-+Route+100&amp;cd%5Bpost_type%5D=facility&amp;cd%5Bpost_id%5D=2213&amp;cd%5Bplugin%5D=PixelYourSite&amp;cd%5Buser_role%5D=guest&amp;cd%5Bevent_url%5D=www.minimallstorage.com%2Fself-storage%2Fnew-brunswick%2Fnauwigewauk%2F298-route-100%2F" style="display: none;" width="1"/>
+  </noscript>
+  <script type="application/ld+json">
+   { "@context": "https://schema.org", "@type": "SelfStorage", "name": "Mini Mall Storage", "image": "https://cdn.minimallstorage.com/wp-content/uploads/2021/10/grid-1-470x265.jpg", "@id": "", "url": "https://www.minimallstorage.com/self-storage/new-brunswick/nauwigewauk/298-route-100/", "telephone": "(506) 634-7867", "priceRange": "$", "address": { "@type": "PostalAddress", "streetAddress": "298 Route 100", "addressLocality": "Nauwigewauk", "addressRegion": "NB", "postalCode": "E5N 6Z4", "addressCountry": "CA" }, "geo": { "@type": "GeoCoordinates", "latitude": 45.4792974, "longitude": -65.8854474 }, "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": [ "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" ], "opens": "10:00", "closes": "18:00" } }
+  </script>
+  <script class="reviews-schema" type="application/ld+json">
+   { "@context": "http://schema.org", "@type": "Product", "name": "Star rating snippet aggregator", "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.6", "reviewCount": "20" } }
+  </script>
+  <script id="modal-builder-js" src="https://cdn.minimallstorage.com/wp-content/plugins/modal-builder-block/assets/js/app.js?ver=221024-212842" type="text/javascript">
+  </script>
+  <script id="google-maps-api-js" src="//maps.googleapis.com/maps/api/js?key=AIzaSyC_jFWRJiX_sSf7xOv4yqNCBkA7IMLCfz0&amp;libraries=geometry&amp;callback=gMapsDummy&amp;ver=2.29.0" type="text/javascript">
+  </script>
+  <script id="fontawesome-js" src="https://kit.fontawesome.com/67e0705c59.js?ver=1.13.9" type="text/javascript">
+  </script>
+  <script id="main-js" src="https://cdn.minimallstorage.com/wp-content/themes/secur/public/facility.min.js?ver=1.13.9" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   (function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; domain=www.minimallstorage.com; secure; SameSite=Lax";
+			}());
+  </script>
+  <script>
+   window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)
+  </script>
+  <script async="" data-no-minify="1" src="https://cdn.minimallstorage.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js">
+  </script>
+  <!-- VISA Tracking Code for www.minimallstorage.com -->
+  <script>
+   (function(v, i, s, a, t) {
+        v[t] = v[t] || function() {
+            (v[t].v = v[t].v || []).push(arguments)
+        };
+        if (!v._visaSettings) {
+            v._visaSettings = {}
+        }
+        v._visaSettings[a] = {
+            v: '1.0',
+            s: a,
+            a: '1',
+            t: t
+        };
+        var b = i.getElementsByTagName('body')[0];
+        var p = i.createElement('script');
+        p.defer = 1;
+        p.async = 1;
+        p.src = s + '?s=' + a;
+        b.appendChild(p)
+    })(window, document, '//app-worker.visitor-analytics.io/main.js', '20cf8e93-c266-11ec-b589-901b0edac50a', 'va')
+  </script>
+  <!-- VISA Tracking Code for www.minimallstorage.com -->
+ </body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1683921080 -->
